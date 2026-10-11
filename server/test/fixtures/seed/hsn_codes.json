@@ -1,0 +1,122 @@
+[
+ {
+  "code": "71",
+  "description": "Natural or cultured pearls, precious stones, precious metals and articles thereof; imitation jewellery"
+ },
+ {
+  "code": "7113",
+  "description": "Articles of jewellery and parts thereof, of precious metal",
+  "keywords": "jewellery jewelry ring chain bangle necklace gold"
+ },
+ {
+  "code": "711319",
+  "description": "Of other precious metal"
+ },
+ {
+  "code": "71131910",
+  "description": "Articles of jewellery of gold, unstudded",
+  "keywords": "gold"
+ },
+ {
+  "code": "7117",
+  "description": "Imitation jewellery",
+  "keywords": "artificial fashion"
+ },
+ {
+  "code": "7102",
+  "description": "Diamonds, whether or not worked, but not mounted or set"
+ },
+ {
+  "code": "710210",
+  "description": "Unsorted diamonds"
+ },
+ {
+  "code": "710231",
+  "description": "Non-industrial diamonds, unworked or simply sawn"
+ },
+ {
+  "code": "61",
+  "description": "Articles of apparel and clothing accessories, knitted or crocheted"
+ },
+ {
+  "code": "6109",
+  "description": "T-shirts, singlets and other vests, knitted or crocheted",
+  "keywords": "tshirt tee"
+ },
+ {
+  "code": "30",
+  "description": "Pharmaceutical products"
+ },
+ {
+  "code": "3004",
+  "description": "Medicaments put up in measured doses or for retail sale",
+  "keywords": "tablet medicine"
+ },
+ {
+  "code": "29",
+  "description": "Organic chemicals"
+ },
+ {
+  "code": "2924",
+  "description": "Carboxyamide-function compounds"
+ },
+ {
+  "code": "04",
+  "description": "Dairy produce; birds eggs; natural honey"
+ },
+ {
+  "code": "0406",
+  "description": "Cheese and curd",
+  "keywords": "paneer"
+ },
+ {
+  "code": "19",
+  "description": "Preparations of cereals, flour, starch or milk; pastrycooks products"
+ },
+ {
+  "code": "1905",
+  "description": "Bread, pastry, cakes, biscuits and other bakers wares",
+  "keywords": "biscuit cookie"
+ },
+ {
+  "code": "24",
+  "description": "Tobacco and manufactured tobacco substitutes"
+ },
+ {
+  "code": "2402",
+  "description": "Cigars, cheroots, cigarillos and cigarettes"
+ },
+ {
+  "code": "85",
+  "description": "Electrical machinery and equipment"
+ },
+ {
+  "code": "8517",
+  "description": "Telephone sets, including smartphones",
+  "keywords": "mobile phone"
+ },
+ {
+  "code": "99",
+  "description": "Services"
+ },
+ {
+  "code": "9988",
+  "description": "Manufacturing services on physical inputs owned by others"
+ },
+ {
+  "code": "998892",
+  "description": "Jewellery manufacturing services"
+ },
+ {
+  "code": "9997",
+  "description": "Other services (fixture)"
+ },
+ {
+  "code": "99972",
+  "description": "Beauty and physical well-being services (fixture)"
+ },
+ {
+  "code": "999721",
+  "description": "Hairdressing and barbers services (fixture)"
+ }
+]

@@ -1,0 +1,1085 @@
+{
+  "_comment": "Compiled 2026-10-10 by the data worker from research/sources.md (secondary sources). CBIC gazette PDFs were NOT read; see README.md. Single normalised tokens hinting at a chapter (s_chap signal).",
+  "items": [
+    {
+      "keyword": "rice",
+      "chapter": "10"
+    },
+    {
+      "keyword": "wheat",
+      "chapter": "10"
+    },
+    {
+      "keyword": "basmati",
+      "chapter": "10"
+    },
+    {
+      "keyword": "atta",
+      "chapter": "11"
+    },
+    {
+      "keyword": "flour",
+      "chapter": "11"
+    },
+    {
+      "keyword": "maida",
+      "chapter": "11"
+    },
+    {
+      "keyword": "besan",
+      "chapter": "11"
+    },
+    {
+      "keyword": "suji",
+      "chapter": "11"
+    },
+    {
+      "keyword": "sooji",
+      "chapter": "11"
+    },
+    {
+      "keyword": "rava",
+      "chapter": "11"
+    },
+    {
+      "keyword": "oats",
+      "chapter": "11"
+    },
+    {
+      "keyword": "oil",
+      "chapter": "15"
+    },
+    {
+      "keyword": "sugar",
+      "chapter": "17"
+    },
+    {
+      "keyword": "jaggery",
+      "chapter": "17"
+    },
+    {
+      "keyword": "gur",
+      "chapter": "17"
+    },
+    {
+      "keyword": "candy",
+      "chapter": "17"
+    },
+    {
+      "keyword": "toffee",
+      "chapter": "17"
+    },
+    {
+      "keyword": "chocolate",
+      "chapter": "18"
+    },
+    {
+      "keyword": "chocolates",
+      "chapter": "18"
+    },
+    {
+      "keyword": "cocoa",
+      "chapter": "18"
+    },
+    {
+      "keyword": "biscuits",
+      "chapter": "19"
+    },
+    {
+      "keyword": "biscuit",
+      "chapter": "19"
+    },
+    {
+      "keyword": "cookies",
+      "chapter": "19"
+    },
+    {
+      "keyword": "bread",
+      "chapter": "19"
+    },
+    {
+      "keyword": "cake",
+      "chapter": "19"
+    },
+    {
+      "keyword": "noodles",
+      "chapter": "19"
+    },
+    {
+      "keyword": "pasta",
+      "chapter": "19"
+    },
+    {
+      "keyword": "cornflakes",
+      "chapter": "19"
+    },
+    {
+      "keyword": "rusk",
+      "chapter": "19"
+    },
+    {
+      "keyword": "muesli",
+      "chapter": "19"
+    },
+    {
+      "keyword": "juice",
+      "chapter": "20"
+    },
+    {
+      "keyword": "pickle",
+      "chapter": "20"
+    },
+    {
+      "keyword": "jam",
+      "chapter": "20"
+    },
+    {
+      "keyword": "chips",
+      "chapter": "20"
+    },
+    {
+      "keyword": "coffee",
+      "chapter": "21"
+    },
+    {
+      "keyword": "namkeen",
+      "chapter": "21"
+    },
+    {
+      "keyword": "bhujia",
+      "chapter": "21"
+    },
+    {
+      "keyword": "sauce",
+      "chapter": "21"
+    },
+    {
+      "keyword": "ketchup",
+      "chapter": "21"
+    },
+    {
+      "keyword": "protein",
+      "chapter": "21"
+    },
+    {
+      "keyword": "masala",
+      "chapter": "21"
+    },
+    {
+      "keyword": "lemonade",
+      "chapter": "22"
+    },
+    {
+      "keyword": "juice",
+      "chapter": "22"
+    },
+    {
+      "keyword": "soda",
+      "chapter": "22"
+    },
+    {
+      "keyword": "water",
+      "chapter": "22"
+    },
+    {
+      "keyword": "drink",
+      "chapter": "22"
+    },
+    {
+      "keyword": "cola",
+      "chapter": "22"
+    },
+    {
+      "keyword": "beer",
+      "chapter": "22"
+    },
+    {
+      "keyword": "tobacco",
+      "chapter": "24"
+    },
+    {
+      "keyword": "cigarette",
+      "chapter": "24"
+    },
+    {
+      "keyword": "salt",
+      "chapter": "25"
+    },
+    {
+      "keyword": "cement",
+      "chapter": "25"
+    },
+    {
+      "keyword": "gel",
+      "chapter": "30"
+    },
+    {
+      "keyword": "spray",
+      "chapter": "30"
+    },
+    {
+      "keyword": "drops",
+      "chapter": "30"
+    },
+    {
+      "keyword": "inhaler",
+      "chapter": "30"
+    },
+    {
+      "keyword": "sachet",
+      "chapter": "30"
+    },
+    {
+      "keyword": "granules",
+      "chapter": "30"
+    },
+    {
+      "keyword": "rub",
+      "chapter": "30"
+    },
+    {
+      "keyword": "balm",
+      "chapter": "30"
+    },
+    {
+      "keyword": "antacid",
+      "chapter": "30"
+    },
+    {
+      "keyword": "antiseptic",
+      "chapter": "30"
+    },
+    {
+      "keyword": "lozenges",
+      "chapter": "30"
+    },
+    {
+      "keyword": "syrups",
+      "chapter": "30"
+    },
+    {
+      "keyword": "tablet",
+      "chapter": "30"
+    },
+    {
+      "keyword": "tablets",
+      "chapter": "30"
+    },
+    {
+      "keyword": "capsule",
+      "chapter": "30"
+    },
+    {
+      "keyword": "capsules",
+      "chapter": "30"
+    },
+    {
+      "keyword": "syrup",
+      "chapter": "30"
+    },
+    {
+      "keyword": "mg",
+      "chapter": "30"
+    },
+    {
+      "keyword": "mcg",
+      "chapter": "30"
+    },
+    {
+      "keyword": "ointment",
+      "chapter": "30"
+    },
+    {
+      "keyword": "injection",
+      "chapter": "30"
+    },
+    {
+      "keyword": "ayurvedic",
+      "chapter": "30"
+    },
+    {
+      "keyword": "homeopathic",
+      "chapter": "30"
+    },
+    {
+      "keyword": "homoeopathic",
+      "chapter": "30"
+    },
+    {
+      "keyword": "unani",
+      "chapter": "30"
+    },
+    {
+      "keyword": "suspension",
+      "chapter": "30"
+    },
+    {
+      "keyword": "medicine",
+      "chapter": "30"
+    },
+    {
+      "keyword": "medicines",
+      "chapter": "30"
+    },
+    {
+      "keyword": "antibiotic",
+      "chapter": "30"
+    },
+    {
+      "keyword": "insulin",
+      "chapter": "30"
+    },
+    {
+      "keyword": "conditioner",
+      "chapter": "33"
+    },
+    {
+      "keyword": "serum",
+      "chapter": "33"
+    },
+    {
+      "keyword": "facewash",
+      "chapter": "33"
+    },
+    {
+      "keyword": "agarbatti",
+      "chapter": "33"
+    },
+    {
+      "keyword": "oil",
+      "chapter": "33"
+    },
+    {
+      "keyword": "shampoo",
+      "chapter": "33"
+    },
+    {
+      "keyword": "toothpaste",
+      "chapter": "33"
+    },
+    {
+      "keyword": "cream",
+      "chapter": "33"
+    },
+    {
+      "keyword": "perfume",
+      "chapter": "33"
+    },
+    {
+      "keyword": "deodorant",
+      "chapter": "33"
+    },
+    {
+      "keyword": "lotion",
+      "chapter": "33"
+    },
+    {
+      "keyword": "sunscreen",
+      "chapter": "33"
+    },
+    {
+      "keyword": "soap",
+      "chapter": "34"
+    },
+    {
+      "keyword": "detergent",
+      "chapter": "34"
+    },
+    {
+      "keyword": "handwash",
+      "chapter": "34"
+    },
+    {
+      "keyword": "cleaner",
+      "chapter": "34"
+    },
+    {
+      "keyword": "sanitizer",
+      "chapter": "38"
+    },
+    {
+      "keyword": "sanitiser",
+      "chapter": "38"
+    },
+    {
+      "keyword": "strips",
+      "chapter": "38"
+    },
+    {
+      "keyword": "diagnostic",
+      "chapter": "38"
+    },
+    {
+      "keyword": "t-shirt",
+      "chapter": "61"
+    },
+    {
+      "keyword": "tshirt",
+      "chapter": "61"
+    },
+    {
+      "keyword": "leggings",
+      "chapter": "61"
+    },
+    {
+      "keyword": "sweater",
+      "chapter": "61"
+    },
+    {
+      "keyword": "socks",
+      "chapter": "61"
+    },
+    {
+      "keyword": "hoodie",
+      "chapter": "61"
+    },
+    {
+      "keyword": "shirt",
+      "chapter": "62"
+    },
+    {
+      "keyword": "jeans",
+      "chapter": "62"
+    },
+    {
+      "keyword": "trousers",
+      "chapter": "62"
+    },
+    {
+      "keyword": "kurta",
+      "chapter": "62"
+    },
+    {
+      "keyword": "kurti",
+      "chapter": "62"
+    },
+    {
+      "keyword": "dress",
+      "chapter": "62"
+    },
+    {
+      "keyword": "blouse",
+      "chapter": "62"
+    },
+    {
+      "keyword": "towel",
+      "chapter": "63"
+    },
+    {
+      "keyword": "bedsheet",
+      "chapter": "63"
+    },
+    {
+      "keyword": "curtain",
+      "chapter": "63"
+    },
+    {
+      "keyword": "blanket",
+      "chapter": "63"
+    },
+    {
+      "keyword": "mask",
+      "chapter": "63"
+    },
+    {
+      "keyword": "loafers",
+      "chapter": "64"
+    },
+    {
+      "keyword": "crocs",
+      "chapter": "64"
+    },
+    {
+      "keyword": "floaters",
+      "chapter": "64"
+    },
+    {
+      "keyword": "shoes",
+      "chapter": "64"
+    },
+    {
+      "keyword": "shoe",
+      "chapter": "64"
+    },
+    {
+      "keyword": "sandals",
+      "chapter": "64"
+    },
+    {
+      "keyword": "slippers",
+      "chapter": "64"
+    },
+    {
+      "keyword": "chappal",
+      "chapter": "64"
+    },
+    {
+      "keyword": "footwear",
+      "chapter": "64"
+    },
+    {
+      "keyword": "sneakers",
+      "chapter": "64"
+    },
+    {
+      "keyword": "sona",
+      "chapter": "71"
+    },
+    {
+      "keyword": "chandi",
+      "chapter": "71"
+    },
+    {
+      "keyword": "kada",
+      "chapter": "71"
+    },
+    {
+      "keyword": "jhumka",
+      "chapter": "71"
+    },
+    {
+      "keyword": "jhumki",
+      "chapter": "71"
+    },
+    {
+      "keyword": "tikka",
+      "chapter": "71"
+    },
+    {
+      "keyword": "nath",
+      "chapter": "71"
+    },
+    {
+      "keyword": "bichiya",
+      "chapter": "71"
+    },
+    {
+      "keyword": "916",
+      "chapter": "71"
+    },
+    {
+      "keyword": "gold",
+      "chapter": "71"
+    },
+    {
+      "keyword": "silver",
+      "chapter": "71"
+    },
+    {
+      "keyword": "platinum",
+      "chapter": "71"
+    },
+    {
+      "keyword": "diamond",
+      "chapter": "71"
+    },
+    {
+      "keyword": "diamonds",
+      "chapter": "71"
+    },
+    {
+      "keyword": "jewellery",
+      "chapter": "71"
+    },
+    {
+      "keyword": "jewelry",
+      "chapter": "71"
+    },
+    {
+      "keyword": "22k",
+      "chapter": "71"
+    },
+    {
+      "keyword": "18k",
+      "chapter": "71"
+    },
+    {
+      "keyword": "24k",
+      "chapter": "71"
+    },
+    {
+      "keyword": "14k",
+      "chapter": "71"
+    },
+    {
+      "keyword": "kundan",
+      "chapter": "71"
+    },
+    {
+      "keyword": "polki",
+      "chapter": "71"
+    },
+    {
+      "keyword": "pearl",
+      "chapter": "71"
+    },
+    {
+      "keyword": "pearls",
+      "chapter": "71"
+    },
+    {
+      "keyword": "bangle",
+      "chapter": "71"
+    },
+    {
+      "keyword": "bangles",
+      "chapter": "71"
+    },
+    {
+      "keyword": "necklace",
+      "chapter": "71"
+    },
+    {
+      "keyword": "mangalsutra",
+      "chapter": "71"
+    },
+    {
+      "keyword": "earrings",
+      "chapter": "71"
+    },
+    {
+      "keyword": "earring",
+      "chapter": "71"
+    },
+    {
+      "keyword": "pendant",
+      "chapter": "71"
+    },
+    {
+      "keyword": "hallmark",
+      "chapter": "71"
+    },
+    {
+      "keyword": "hallmarked",
+      "chapter": "71"
+    },
+    {
+      "keyword": "bullion",
+      "chapter": "71"
+    },
+    {
+      "keyword": "carat",
+      "chapter": "71"
+    },
+    {
+      "keyword": "solitaire",
+      "chapter": "71"
+    },
+    {
+      "keyword": "gemstone",
+      "chapter": "71"
+    },
+    {
+      "keyword": "payal",
+      "chapter": "71"
+    },
+    {
+      "keyword": "anklet",
+      "chapter": "71"
+    },
+    {
+      "keyword": "laptop",
+      "chapter": "84"
+    },
+    {
+      "keyword": "computer",
+      "chapter": "84"
+    },
+    {
+      "keyword": "printer",
+      "chapter": "84"
+    },
+    {
+      "keyword": "ac",
+      "chapter": "84"
+    },
+    {
+      "keyword": "refrigerator",
+      "chapter": "84"
+    },
+    {
+      "keyword": "fridge",
+      "chapter": "84"
+    },
+    {
+      "keyword": "fan",
+      "chapter": "84"
+    },
+    {
+      "keyword": "mouse",
+      "chapter": "84"
+    },
+    {
+      "keyword": "keyboard",
+      "chapter": "84"
+    },
+    {
+      "keyword": "ssd",
+      "chapter": "84"
+    },
+    {
+      "keyword": "hdd",
+      "chapter": "84"
+    },
+    {
+      "keyword": "harddisk",
+      "chapter": "84"
+    },
+    {
+      "keyword": "purifier",
+      "chapter": "84"
+    },
+    {
+      "keyword": "cooler",
+      "chapter": "84"
+    },
+    {
+      "keyword": "calculator",
+      "chapter": "84"
+    },
+    {
+      "keyword": "pendrive",
+      "chapter": "85"
+    },
+    {
+      "keyword": "usb",
+      "chapter": "85"
+    },
+    {
+      "keyword": "cable",
+      "chapter": "85"
+    },
+    {
+      "keyword": "earbuds",
+      "chapter": "85"
+    },
+    {
+      "keyword": "neckband",
+      "chapter": "85"
+    },
+    {
+      "keyword": "trimmer",
+      "chapter": "85"
+    },
+    {
+      "keyword": "kettle",
+      "chapter": "85"
+    },
+    {
+      "keyword": "microwave",
+      "chapter": "85"
+    },
+    {
+      "keyword": "heater",
+      "chapter": "85"
+    },
+    {
+      "keyword": "bulb",
+      "chapter": "85"
+    },
+    {
+      "keyword": "switch",
+      "chapter": "85"
+    },
+    {
+      "keyword": "soundbar",
+      "chapter": "85"
+    },
+    {
+      "keyword": "mobile",
+      "chapter": "85"
+    },
+    {
+      "keyword": "smartphone",
+      "chapter": "85"
+    },
+    {
+      "keyword": "phone",
+      "chapter": "85"
+    },
+    {
+      "keyword": "tv",
+      "chapter": "85"
+    },
+    {
+      "keyword": "television",
+      "chapter": "85"
+    },
+    {
+      "keyword": "led",
+      "chapter": "85"
+    },
+    {
+      "keyword": "charger",
+      "chapter": "85"
+    },
+    {
+      "keyword": "earphones",
+      "chapter": "85"
+    },
+    {
+      "keyword": "headphones",
+      "chapter": "85"
+    },
+    {
+      "keyword": "speaker",
+      "chapter": "85"
+    },
+    {
+      "keyword": "battery",
+      "chapter": "85"
+    },
+    {
+      "keyword": "mixer",
+      "chapter": "85"
+    },
+    {
+      "keyword": "grinder",
+      "chapter": "85"
+    },
+    {
+      "keyword": "wheelchair",
+      "chapter": "87"
+    },
+    {
+      "keyword": "bicycle",
+      "chapter": "87"
+    },
+    {
+      "keyword": "glucometer",
+      "chapter": "90"
+    },
+    {
+      "keyword": "thermometer",
+      "chapter": "90"
+    },
+    {
+      "keyword": "oximeter",
+      "chapter": "90"
+    },
+    {
+      "keyword": "spectacles",
+      "chapter": "90"
+    },
+    {
+      "keyword": "eyeglasses",
+      "chapter": "90"
+    },
+    {
+      "keyword": "lens",
+      "chapter": "90"
+    },
+    {
+      "keyword": "lenses",
+      "chapter": "90"
+    },
+    {
+      "keyword": "stethoscope",
+      "chapter": "90"
+    },
+    {
+      "keyword": "sphygmomanometer",
+      "chapter": "90"
+    },
+    {
+      "keyword": "bp",
+      "chapter": "90"
+    },
+    {
+      "keyword": "nebulizer",
+      "chapter": "90"
+    },
+    {
+      "keyword": "nebuliser",
+      "chapter": "90"
+    },
+    {
+      "keyword": "syringe",
+      "chapter": "90"
+    },
+    {
+      "keyword": "hearing",
+      "chapter": "90"
+    },
+    {
+      "keyword": "diaper",
+      "chapter": "96"
+    },
+    {
+      "keyword": "diapers",
+      "chapter": "96"
+    },
+    {
+      "keyword": "sanitary",
+      "chapter": "96"
+    },
+    {
+      "keyword": "toothbrush",
+      "chapter": "96"
+    },
+    {
+      "keyword": "tampon",
+      "chapter": "96"
+    },
+    {
+      "keyword": "service",
+      "chapter": "99"
+    },
+    {
+      "keyword": "services",
+      "chapter": "99"
+    },
+    {
+      "keyword": "hotel",
+      "chapter": "99"
+    },
+    {
+      "keyword": "restaurant",
+      "chapter": "99"
+    },
+    {
+      "keyword": "salon",
+      "chapter": "99"
+    },
+    {
+      "keyword": "insurance",
+      "chapter": "99"
+    },
+    {
+      "keyword": "consultation",
+      "chapter": "99"
+    },
+    {
+      "keyword": "masala",
+      "chapter": "09"
+    },
+    {
+      "keyword": "cinnamon",
+      "chapter": "09"
+    },
+    {
+      "keyword": "cloves",
+      "chapter": "09"
+    },
+    {
+      "keyword": "dalchini",
+      "chapter": "09"
+    },
+    {
+      "keyword": "tea",
+      "chapter": "09"
+    },
+    {
+      "keyword": "coffee",
+      "chapter": "09"
+    },
+    {
+      "keyword": "turmeric",
+      "chapter": "09"
+    },
+    {
+      "keyword": "haldi",
+      "chapter": "09"
+    },
+    {
+      "keyword": "jeera",
+      "chapter": "09"
+    },
+    {
+      "keyword": "cumin",
+      "chapter": "09"
+    },
+    {
+      "keyword": "cardamom",
+      "chapter": "09"
+    },
+    {
+      "keyword": "elaichi",
+      "chapter": "09"
+    },
+    {
+      "keyword": "pepper",
+      "chapter": "09"
+    },
+    {
+      "keyword": "spices",
+      "chapter": "09"
+    },
+    {
+      "keyword": "milk",
+      "chapter": "04"
+    },
+    {
+      "keyword": "ghee",
+      "chapter": "04"
+    },
+    {
+      "keyword": "butter",
+      "chapter": "04"
+    },
+    {
+      "keyword": "paneer",
+      "chapter": "04"
+    },
+    {
+      "keyword": "cheese",
+      "chapter": "04"
+    },
+    {
+      "keyword": "curd",
+      "chapter": "04"
+    },
+    {
+      "keyword": "dahi",
+      "chapter": "04"
+    },
+    {
+      "keyword": "honey",
+      "chapter": "04"
+    },
+    {
+      "keyword": "egg",
+      "chapter": "04"
+    },
+    {
+      "keyword": "eggs",
+      "chapter": "04"
+    },
+    {
+      "keyword": "dal",
+      "chapter": "07"
+    },
+    {
+      "keyword": "potato",
+      "chapter": "07"
+    },
+    {
+      "keyword": "onion",
+      "chapter": "07"
+    },
+    {
+      "keyword": "tomato",
+      "chapter": "07"
+    },
+    {
+      "keyword": "cashew",
+      "chapter": "08"
+    },
+    {
+      "keyword": "almonds",
+      "chapter": "08"
+    },
+    {
+      "keyword": "raisins",
+      "chapter": "08"
+    },
+    {
+      "keyword": "kaju",
+      "chapter": "08"
+    },
+    {
+      "keyword": "badam",
+      "chapter": "08"
+    }
+  ]
+}

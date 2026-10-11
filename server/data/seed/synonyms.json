@@ -1,0 +1,6144 @@
+{
+  "_comment": "Compiled 2026-10-10 by the data worker from research/sources.md (secondary sources). CBIC gazette PDFs were NOT read; see README.md. Curated product-name keywords. A synonym never implies a rate; rates come only from rate_rules.",
+  "items": [
+    {
+      "phrase": "gold ring",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "22k gold ring",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "18k gold ring",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold chain",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "22k gold chain",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "18k gold chain",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold necklace",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "22k gold necklace",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold bangle",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold bangles",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "22k gold bangle",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold bracelet",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold kada",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold earrings",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold earring",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold jhumka",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold pendant",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold mangalsutra",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "mangalsutra",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold nose pin",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold nath",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold anklet",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold jewelry",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold ornament",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold ornaments",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "22k gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "18k gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "14k gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "916 gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "hallmarked gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold haram",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold choker",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "gold coin pendant",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "kundan jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "kundan necklace",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "kundan set",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "polki jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "temple jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "antique gold jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "platinum ring",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "platinum jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "platinum chain",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "platinum band",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "jewellery",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "jewelry",
+      "hsn_code": "7113"
+    },
+    {
+      "phrase": "diamond ring",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond jewellery",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond necklace",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond earrings",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond pendant",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond studded ring",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond bangle",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond nose pin",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "solitaire ring",
+      "hsn_code": "7113",
+      "note": "Diamond-studded gold jewellery is 7113 (3%). Loose diamonds are 7102, not 7113."
+    },
+    {
+      "phrase": "diamond studded gold jewellery",
+      "hsn_code": "71131930"
+    },
+    {
+      "phrase": "plain gold jewellery",
+      "hsn_code": "71131910"
+    },
+    {
+      "phrase": "unstudded gold jewellery",
+      "hsn_code": "71131910"
+    },
+    {
+      "phrase": "silver jewellery",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver ring",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver chain",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver anklet",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver payal",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "payal",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver bracelet",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver earrings",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver toe ring",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "bichiya",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "925 silver jewellery",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "sterling silver jewellery",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver kada",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "silver bangle",
+      "hsn_code": "711311"
+    },
+    {
+      "phrase": "jewellery making charges",
+      "hsn_code": "7113",
+      "note": "Making charges billed within a jewellery sale are part of the 3% jewellery supply (cleartax). Job work on customer's own metal is SAC 998892 (5%)."
+    },
+    {
+      "phrase": "making charges",
+      "hsn_code": "7113",
+      "note": "Making charges billed within a jewellery sale are part of the 3% jewellery supply (cleartax). Job work on customer's own metal is SAC 998892 (5%)."
+    },
+    {
+      "phrase": "gold making charges",
+      "hsn_code": "7113",
+      "note": "Making charges billed within a jewellery sale are part of the 3% jewellery supply (cleartax). Job work on customer's own metal is SAC 998892 (5%)."
+    },
+    {
+      "phrase": "jewellery making charges",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Use only when invoicing job work on metal owned by the customer."
+    },
+    {
+      "phrase": "making charges",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Use only when invoicing job work on metal owned by the customer."
+    },
+    {
+      "phrase": "jewellery job work",
+      "hsn_code": "998892",
+      "note": "Job work on Chapter 71 goods other than diamonds; diamond job work is 1.5% (not seeded)."
+    },
+    {
+      "phrase": "gold job work",
+      "hsn_code": "998892",
+      "note": "Job work on Chapter 71 goods other than diamonds; diamond job work is 1.5% (not seeded)."
+    },
+    {
+      "phrase": "silver job work",
+      "hsn_code": "998892",
+      "note": "Job work on Chapter 71 goods other than diamonds; diamond job work is 1.5% (not seeded)."
+    },
+    {
+      "phrase": "karigar charges",
+      "hsn_code": "998892",
+      "note": "Job work on Chapter 71 goods other than diamonds; diamond job work is 1.5% (not seeded)."
+    },
+    {
+      "phrase": "jewellery repair job work",
+      "hsn_code": "998892",
+      "note": "Job work on Chapter 71 goods other than diamonds; diamond job work is 1.5% (not seeded)."
+    },
+    {
+      "phrase": "imitation jewellery job work",
+      "hsn_code": "998893",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gold bar",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "gold biscuit",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "gold bullion",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "24k gold bar",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "24k gold",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "gold bar 999",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "fine gold",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "gold granules",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "raw gold",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "gold coin",
+      "hsn_code": "7108",
+      "note": "Non-legal-tender bullion coins are commonly billed as 7108; some classify under 7118 (Coin). Confirm with your CA."
+    },
+    {
+      "phrase": "24k gold coin",
+      "hsn_code": "7108",
+      "note": "Non-legal-tender bullion coins are commonly billed as 7108; some classify under 7118 (Coin). Confirm with your CA."
+    },
+    {
+      "phrase": "22k gold coin",
+      "hsn_code": "7108",
+      "note": "Non-legal-tender bullion coins are commonly billed as 7108; some classify under 7118 (Coin). Confirm with your CA."
+    },
+    {
+      "phrase": "gold coin",
+      "hsn_code": "7118",
+      "strength": "related",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver coin",
+      "hsn_code": "7118",
+      "strength": "related",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver bar",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver bullion",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver brick",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver granules",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "fine silver",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver coin",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "999 silver bar",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver utensils",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver glass",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver plate",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver thali",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver bowl",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver spoon",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver pooja items",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silverware",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver lamp",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver diya",
+      "hsn_code": "7114",
+      "note": "Silver utensils/articles are goldsmiths'/silversmiths' wares (7114). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "platinum bar",
+      "hsn_code": "7110",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "platinum bullion",
+      "hsn_code": "7110",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "pearl",
+      "hsn_code": "7101"
+    },
+    {
+      "phrase": "pearls",
+      "hsn_code": "7101"
+    },
+    {
+      "phrase": "loose pearls",
+      "hsn_code": "7101"
+    },
+    {
+      "phrase": "cultured pearls",
+      "hsn_code": "7101"
+    },
+    {
+      "phrase": "pearl necklace",
+      "hsn_code": "7116",
+      "note": "Strung pearls are 7116; pearls set in gold are 7113. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "pearl mala",
+      "hsn_code": "7116",
+      "note": "Strung pearls are 7116; pearls set in gold are 7113. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "rough diamond",
+      "hsn_code": "710231",
+      "note": "Rough industrial diamonds are 710221."
+    },
+    {
+      "phrase": "uncut diamond",
+      "hsn_code": "710231",
+      "note": "Rough industrial diamonds are 710221."
+    },
+    {
+      "phrase": "loose diamond",
+      "hsn_code": "710239"
+    },
+    {
+      "phrase": "cut diamond",
+      "hsn_code": "710239"
+    },
+    {
+      "phrase": "polished diamond",
+      "hsn_code": "710239"
+    },
+    {
+      "phrase": "cut and polished diamond",
+      "hsn_code": "710239"
+    },
+    {
+      "phrase": "lab grown diamond",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "lab-grown diamond",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "cvd diamond",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "synthetic diamond",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "american diamond",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "cubic zirconia",
+      "hsn_code": "7104",
+      "note": "7104 rate disputed between sources (0.25% vs 1.5%) - not seeded; verify against 9/2025 Schedules V/VI."
+    },
+    {
+      "phrase": "gemstone",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "gemstones",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "ruby",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "emerald",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "sapphire",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "navratna stones",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "precious stone",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "semi-precious stone",
+      "hsn_code": "7103",
+      "note": "Loose stones (not set) are 0.25% (Sch V) per research."
+    },
+    {
+      "phrase": "imitation jewellery",
+      "hsn_code": "7117",
+      "note": "7117 rate under 9/2025 not confirmed by research - not seeded. Gold-clad base-metal jewellery may be 711320 instead."
+    },
+    {
+      "phrase": "artificial jewellery",
+      "hsn_code": "7117",
+      "note": "7117 rate under 9/2025 not confirmed by research - not seeded. Gold-clad base-metal jewellery may be 711320 instead."
+    },
+    {
+      "phrase": "fashion jewellery",
+      "hsn_code": "7117",
+      "note": "7117 rate under 9/2025 not confirmed by research - not seeded. Gold-clad base-metal jewellery may be 711320 instead."
+    },
+    {
+      "phrase": "costume jewellery",
+      "hsn_code": "7117",
+      "note": "7117 rate under 9/2025 not confirmed by research - not seeded. Gold-clad base-metal jewellery may be 711320 instead."
+    },
+    {
+      "phrase": "one gram gold jewellery",
+      "hsn_code": "7117",
+      "note": "7117 rate under 9/2025 not confirmed by research - not seeded. Gold-clad base-metal jewellery may be 711320 instead."
+    },
+    {
+      "phrase": "tablet",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Generic word: also a tablet computer (8471). Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "tablets",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Generic word: also a tablet computer (8471). Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "capsule",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "capsules",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "syrup",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "cough syrup",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "ointment",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "medicated cream",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "eye drops",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "ear drops",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "nasal spray",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "injection",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "insulin",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "antibiotic",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "medicine",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "medicines",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "painkiller",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "paracetamol tablet",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "oral suspension",
+      "hsn_code": "3004",
+      "note": "Retail dosage form assumed (3004). 33 specified life-saving drugs are Nil under 10/2025 - drug-level check needed; HSN alone is not enough."
+    },
+    {
+      "phrase": "paracetamol",
+      "hsn_code": "3004",
+      "note": "Bulk paracetamol (API) is 2924; confirm retail dosage form."
+    },
+    {
+      "phrase": "paracetamol",
+      "hsn_code": "2924",
+      "strength": "related",
+      "note": "Only for bulk drug substance. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ayurvedic medicine",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "ayurvedic tablets",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "ayurvedic syrup",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "churna",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "chyawanprash",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "homeopathic medicine",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "homoeopathic medicine",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "unani medicine",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "pain balm",
+      "hsn_code": "3004",
+      "note": "Ayurvedic/Unani/homoeopathic medicaments in retail packs fall in 3004 (5%); classification of chyawanprash and balms has been litigated - confirm."
+    },
+    {
+      "phrase": "vitamin tablets",
+      "hsn_code": "3004",
+      "note": "If sold as a food supplement/nutraceutical (FSSAI licence) it may be 2106 instead."
+    },
+    {
+      "phrase": "multivitamin",
+      "hsn_code": "3004",
+      "note": "If sold as a food supplement/nutraceutical (FSSAI licence) it may be 2106 instead."
+    },
+    {
+      "phrase": "calcium tablets",
+      "hsn_code": "3004",
+      "note": "If sold as a food supplement/nutraceutical (FSSAI licence) it may be 2106 instead."
+    },
+    {
+      "phrase": "vitamin tablets",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Food supplements are 2106; medicaments are 3004."
+    },
+    {
+      "phrase": "multivitamin",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Food supplements are 2106; medicaments are 3004."
+    },
+    {
+      "phrase": "nutraceutical",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Food supplements are 2106; medicaments are 3004."
+    },
+    {
+      "phrase": "dietary supplement",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Food supplements are 2106; medicaments are 3004."
+    },
+    {
+      "phrase": "protein powder",
+      "hsn_code": "210610",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "whey protein",
+      "hsn_code": "210610",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "soy protein",
+      "hsn_code": "210610",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "glucometer",
+      "hsn_code": "9027",
+      "note": "Classification varies (9027 or 9018). Research lists glucometers at 5% but no HSN; no rate rule on 9027 in this seed."
+    },
+    {
+      "phrase": "glucose meter",
+      "hsn_code": "9027",
+      "note": "Classification varies (9027 or 9018). Research lists glucometers at 5% but no HSN; no rate rule on 9027 in this seed."
+    },
+    {
+      "phrase": "blood glucose monitor",
+      "hsn_code": "9027",
+      "note": "Classification varies (9027 or 9018). Research lists glucometers at 5% but no HSN; no rate rule on 9027 in this seed."
+    },
+    {
+      "phrase": "glucometer",
+      "hsn_code": "9018",
+      "strength": "related"
+    },
+    {
+      "phrase": "glucose meter",
+      "hsn_code": "9018",
+      "strength": "related"
+    },
+    {
+      "phrase": "test strips",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "glucometer strips",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "glucose test strips",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "blood glucose test strips",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "pregnancy test kit",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "rapid test kit",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "diagnostic kit",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "covid test kit",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "urine test strips",
+      "hsn_code": "3822"
+    },
+    {
+      "phrase": "bp monitor",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "blood pressure monitor",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "bp machine",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "sphygmomanometer",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "digital bp monitor",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "pulse oximeter",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "oximeter",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "stethoscope",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "surgical instruments",
+      "hsn_code": "9018"
+    },
+    {
+      "phrase": "syringe",
+      "hsn_code": "901831"
+    },
+    {
+      "phrase": "syringes",
+      "hsn_code": "901831"
+    },
+    {
+      "phrase": "disposable syringe",
+      "hsn_code": "901831"
+    },
+    {
+      "phrase": "insulin syringe",
+      "hsn_code": "901831"
+    },
+    {
+      "phrase": "needle",
+      "hsn_code": "901832"
+    },
+    {
+      "phrase": "insulin pen needle",
+      "hsn_code": "901832"
+    },
+    {
+      "phrase": "suture needle",
+      "hsn_code": "901832"
+    },
+    {
+      "phrase": "nebulizer",
+      "hsn_code": "9019"
+    },
+    {
+      "phrase": "nebuliser",
+      "hsn_code": "9019"
+    },
+    {
+      "phrase": "oxygen concentrator",
+      "hsn_code": "9019"
+    },
+    {
+      "phrase": "cpap machine",
+      "hsn_code": "9019"
+    },
+    {
+      "phrase": "massager",
+      "hsn_code": "9019"
+    },
+    {
+      "phrase": "hearing aid",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "crutches",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "knee brace",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "lumbar belt",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "orthopaedic belt",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "cervical collar",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "walking frame",
+      "hsn_code": "9021"
+    },
+    {
+      "phrase": "thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "digital thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "clinical thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "infrared thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "fever thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "wheelchair",
+      "hsn_code": "8713",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wheel chair",
+      "hsn_code": "8713",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "spectacles",
+      "hsn_code": "9004"
+    },
+    {
+      "phrase": "eyeglasses",
+      "hsn_code": "9004"
+    },
+    {
+      "phrase": "reading glasses",
+      "hsn_code": "9004"
+    },
+    {
+      "phrase": "prescription glasses",
+      "hsn_code": "9004"
+    },
+    {
+      "phrase": "chashma",
+      "hsn_code": "9004"
+    },
+    {
+      "phrase": "sunglasses",
+      "hsn_code": "9004",
+      "note": "Sunglasses may not be within the 5% entry for corrective spectacles - verify."
+    },
+    {
+      "phrase": "spectacle frame",
+      "hsn_code": "9003"
+    },
+    {
+      "phrase": "eyeglass frame",
+      "hsn_code": "9003"
+    },
+    {
+      "phrase": "optical frame",
+      "hsn_code": "9003"
+    },
+    {
+      "phrase": "spectacle lens",
+      "hsn_code": "900150",
+      "note": "Glass spectacle lenses are 900140."
+    },
+    {
+      "phrase": "spectacle lenses",
+      "hsn_code": "900150",
+      "note": "Glass spectacle lenses are 900140."
+    },
+    {
+      "phrase": "eyeglass lens",
+      "hsn_code": "900150",
+      "note": "Glass spectacle lenses are 900140."
+    },
+    {
+      "phrase": "glass spectacle lens",
+      "hsn_code": "900140"
+    },
+    {
+      "phrase": "contact lens",
+      "hsn_code": "900130"
+    },
+    {
+      "phrase": "contact lenses",
+      "hsn_code": "900130"
+    },
+    {
+      "phrase": "coloured contact lenses",
+      "hsn_code": "900130"
+    },
+    {
+      "phrase": "face mask",
+      "hsn_code": "6307",
+      "note": "Chapter 63 price rule (Rs 2500 per piece) applies."
+    },
+    {
+      "phrase": "surgical mask",
+      "hsn_code": "6307",
+      "note": "Chapter 63 price rule (Rs 2500 per piece) applies."
+    },
+    {
+      "phrase": "n95 mask",
+      "hsn_code": "6307",
+      "note": "Chapter 63 price rule (Rs 2500 per piece) applies."
+    },
+    {
+      "phrase": "cloth mask",
+      "hsn_code": "6307",
+      "note": "Chapter 63 price rule (Rs 2500 per piece) applies."
+    },
+    {
+      "phrase": "hand sanitizer",
+      "hsn_code": "3808",
+      "note": "Alcohol hand sanitizer is classified by some as 3808 (disinfectant) and by others as 3004 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "sanitizer",
+      "hsn_code": "3808",
+      "note": "Alcohol hand sanitizer is classified by some as 3808 (disinfectant) and by others as 3004 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "sanitiser",
+      "hsn_code": "3808",
+      "note": "Alcohol hand sanitizer is classified by some as 3808 (disinfectant) and by others as 3004 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "baby diaper",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "baby diapers",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "diapers",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "diaper",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "adult diaper",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "adult diapers",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "diaper pants",
+      "hsn_code": "9619",
+      "note": "5% rules sit at tariff items 9619 00 30/40/90 - query the 8-digit code."
+    },
+    {
+      "phrase": "sanitary pad",
+      "hsn_code": "9619",
+      "note": "Rate for sanitary towels/tampons not in research - verify (believed exempt). Do not reuse the diaper rate."
+    },
+    {
+      "phrase": "sanitary pads",
+      "hsn_code": "9619",
+      "note": "Rate for sanitary towels/tampons not in research - verify (believed exempt). Do not reuse the diaper rate."
+    },
+    {
+      "phrase": "sanitary napkin",
+      "hsn_code": "9619",
+      "note": "Rate for sanitary towels/tampons not in research - verify (believed exempt). Do not reuse the diaper rate."
+    },
+    {
+      "phrase": "tampon",
+      "hsn_code": "9619",
+      "note": "Rate for sanitary towels/tampons not in research - verify (believed exempt). Do not reuse the diaper rate."
+    },
+    {
+      "phrase": "panty liner",
+      "hsn_code": "9619",
+      "note": "Rate for sanitary towels/tampons not in research - verify (believed exempt). Do not reuse the diaper rate."
+    },
+    {
+      "phrase": "bandage",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "crepe bandage",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gauze",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "adhesive bandage",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "band aid",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cotton wool",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "surgical dressing",
+      "hsn_code": "3005",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "first aid kit",
+      "hsn_code": "3006",
+      "strength": "related",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "surgical gloves",
+      "hsn_code": "401511",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "examination gloves",
+      "hsn_code": "401511",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "toothpaste",
+      "hsn_code": "330610"
+    },
+    {
+      "phrase": "tooth paste",
+      "hsn_code": "330610"
+    },
+    {
+      "phrase": "tooth powder",
+      "hsn_code": "330610"
+    },
+    {
+      "phrase": "dant manjan",
+      "hsn_code": "330610"
+    },
+    {
+      "phrase": "toothbrush",
+      "hsn_code": "9603",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "shampoo",
+      "hsn_code": "330510"
+    },
+    {
+      "phrase": "anti dandruff shampoo",
+      "hsn_code": "330510"
+    },
+    {
+      "phrase": "hair oil",
+      "hsn_code": "3305",
+      "note": "Edible coconut oil is 1513."
+    },
+    {
+      "phrase": "coconut hair oil",
+      "hsn_code": "3305",
+      "note": "Edible coconut oil is 1513."
+    },
+    {
+      "phrase": "amla hair oil",
+      "hsn_code": "3305",
+      "note": "Edible coconut oil is 1513."
+    },
+    {
+      "phrase": "soap",
+      "hsn_code": "340111"
+    },
+    {
+      "phrase": "bath soap",
+      "hsn_code": "340111"
+    },
+    {
+      "phrase": "toilet soap",
+      "hsn_code": "340111"
+    },
+    {
+      "phrase": "bathing soap",
+      "hsn_code": "340111"
+    },
+    {
+      "phrase": "medicated soap",
+      "hsn_code": "340111"
+    },
+    {
+      "phrase": "handwash",
+      "hsn_code": "3401",
+      "note": "5% seed rule covers toilet soap (340111) only. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "liquid soap",
+      "hsn_code": "3401",
+      "note": "5% seed rule covers toilet soap (340111) only. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "body wash",
+      "hsn_code": "3401",
+      "note": "5% seed rule covers toilet soap (340111) only. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "detergent",
+      "hsn_code": "3402",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "washing powder",
+      "hsn_code": "3402",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dishwash liquid",
+      "hsn_code": "3402",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "face cream",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "moisturiser",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "sunscreen",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "talcum powder",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "lipstick",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "kajal",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "deodorant",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "shaving cream",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "perfume",
+      "hsn_code": "3303",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "attar",
+      "hsn_code": "3303",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "uht milk",
+      "hsn_code": "0401",
+      "note": "Seed rule (Nil) covers UHT milk; fresh pouch milk is believed exempt but not seeded separately."
+    },
+    {
+      "phrase": "toned milk",
+      "hsn_code": "0401",
+      "note": "Seed rule (Nil) covers UHT milk; fresh pouch milk is believed exempt but not seeded separately."
+    },
+    {
+      "phrase": "milk",
+      "hsn_code": "0401",
+      "note": "Seed rule (Nil) covers UHT milk; fresh pouch milk is believed exempt but not seeded separately."
+    },
+    {
+      "phrase": "milk powder",
+      "hsn_code": "0402"
+    },
+    {
+      "phrase": "condensed milk",
+      "hsn_code": "0402"
+    },
+    {
+      "phrase": "curd",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "dahi",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "yogurt",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "buttermilk",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "lassi",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "butter",
+      "hsn_code": "0405"
+    },
+    {
+      "phrase": "ghee",
+      "hsn_code": "0405"
+    },
+    {
+      "phrase": "desi ghee",
+      "hsn_code": "0405"
+    },
+    {
+      "phrase": "cow ghee",
+      "hsn_code": "0405"
+    },
+    {
+      "phrase": "paneer",
+      "hsn_code": "040610",
+      "note": "Nil only when pre-packaged and labelled per research; loose paneer status not verified."
+    },
+    {
+      "phrase": "cheese",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "cheese slices",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "mozzarella",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "eggs",
+      "hsn_code": "0407"
+    },
+    {
+      "phrase": "egg",
+      "hsn_code": "0407"
+    },
+    {
+      "phrase": "honey",
+      "hsn_code": "0409"
+    },
+    {
+      "phrase": "potato",
+      "hsn_code": "0701"
+    },
+    {
+      "phrase": "aloo",
+      "hsn_code": "0701"
+    },
+    {
+      "phrase": "onion",
+      "hsn_code": "0703"
+    },
+    {
+      "phrase": "garlic",
+      "hsn_code": "0703"
+    },
+    {
+      "phrase": "tomato",
+      "hsn_code": "0702"
+    },
+    {
+      "phrase": "dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "toor dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "moong dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "chana dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "urad dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "masoor dal",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "rajma",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "kabuli chana",
+      "hsn_code": "0713"
+    },
+    {
+      "phrase": "cashew",
+      "hsn_code": "0801"
+    },
+    {
+      "phrase": "cashew nuts",
+      "hsn_code": "0801"
+    },
+    {
+      "phrase": "kaju",
+      "hsn_code": "0801"
+    },
+    {
+      "phrase": "almonds",
+      "hsn_code": "0802"
+    },
+    {
+      "phrase": "badam",
+      "hsn_code": "0802"
+    },
+    {
+      "phrase": "walnuts",
+      "hsn_code": "0802"
+    },
+    {
+      "phrase": "pistachio",
+      "hsn_code": "0802"
+    },
+    {
+      "phrase": "raisins",
+      "hsn_code": "0806"
+    },
+    {
+      "phrase": "kishmish",
+      "hsn_code": "0806"
+    },
+    {
+      "phrase": "tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "tea leaves",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "green tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "chai patti",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "coffee",
+      "hsn_code": "0901"
+    },
+    {
+      "phrase": "coffee beans",
+      "hsn_code": "0901"
+    },
+    {
+      "phrase": "filter coffee",
+      "hsn_code": "0901"
+    },
+    {
+      "phrase": "instant coffee",
+      "hsn_code": "2101"
+    },
+    {
+      "phrase": "turmeric powder",
+      "hsn_code": "0910"
+    },
+    {
+      "phrase": "haldi",
+      "hsn_code": "0910"
+    },
+    {
+      "phrase": "saffron",
+      "hsn_code": "0910"
+    },
+    {
+      "phrase": "ginger",
+      "hsn_code": "0910"
+    },
+    {
+      "phrase": "red chilli powder",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "black pepper",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "cumin",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "jeera",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "coriander seeds",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "fennel seeds",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "cardamom",
+      "hsn_code": "0908"
+    },
+    {
+      "phrase": "elaichi",
+      "hsn_code": "0908"
+    },
+    {
+      "phrase": "rice",
+      "hsn_code": "1006"
+    },
+    {
+      "phrase": "basmati rice",
+      "hsn_code": "1006"
+    },
+    {
+      "phrase": "wheat",
+      "hsn_code": "1001"
+    },
+    {
+      "phrase": "atta",
+      "hsn_code": "1101"
+    },
+    {
+      "phrase": "wheat flour",
+      "hsn_code": "1101"
+    },
+    {
+      "phrase": "maida",
+      "hsn_code": "1101"
+    },
+    {
+      "phrase": "besan",
+      "hsn_code": "1106"
+    },
+    {
+      "phrase": "gram flour",
+      "hsn_code": "1106"
+    },
+    {
+      "phrase": "sugar",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "jaggery",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "gur",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "salt",
+      "hsn_code": "2501"
+    },
+    {
+      "phrase": "iodised salt",
+      "hsn_code": "2501"
+    },
+    {
+      "phrase": "rock salt",
+      "hsn_code": "2501"
+    },
+    {
+      "phrase": "mustard oil",
+      "hsn_code": "1514"
+    },
+    {
+      "phrase": "sarson oil",
+      "hsn_code": "1514"
+    },
+    {
+      "phrase": "sunflower oil",
+      "hsn_code": "1512"
+    },
+    {
+      "phrase": "soybean oil",
+      "hsn_code": "1507"
+    },
+    {
+      "phrase": "soyabean oil",
+      "hsn_code": "1507"
+    },
+    {
+      "phrase": "groundnut oil",
+      "hsn_code": "1508"
+    },
+    {
+      "phrase": "peanut oil",
+      "hsn_code": "1508"
+    },
+    {
+      "phrase": "palm oil",
+      "hsn_code": "1511"
+    },
+    {
+      "phrase": "coconut oil",
+      "hsn_code": "1513"
+    },
+    {
+      "phrase": "biscuits",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "biscuit",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "cookies",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "cream biscuits",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "rusk",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "bread",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "cake",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "khari",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "papad",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "chocolate",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "chocolates",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "chocolate bar",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "dark chocolate",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "candy",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "toffee",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "chewing gum",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "lollipop",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "noodles",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "instant noodles",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "pasta",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "macaroni",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "vermicelli",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "sevai",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "cornflakes",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "corn flakes",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "muesli",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "poha",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "breakfast cereal",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "namkeen",
+      "hsn_code": "210690"
+    },
+    {
+      "phrase": "bhujia",
+      "hsn_code": "210690"
+    },
+    {
+      "phrase": "aloo bhujia",
+      "hsn_code": "210690"
+    },
+    {
+      "phrase": "mixture",
+      "hsn_code": "210690"
+    },
+    {
+      "phrase": "farsan",
+      "hsn_code": "210690"
+    },
+    {
+      "phrase": "potato chips",
+      "hsn_code": "2005"
+    },
+    {
+      "phrase": "chips",
+      "hsn_code": "2005"
+    },
+    {
+      "phrase": "wafers",
+      "hsn_code": "2005"
+    },
+    {
+      "phrase": "pickle",
+      "hsn_code": "2001"
+    },
+    {
+      "phrase": "achar",
+      "hsn_code": "2001"
+    },
+    {
+      "phrase": "jam",
+      "hsn_code": "2007"
+    },
+    {
+      "phrase": "fruit jam",
+      "hsn_code": "2007"
+    },
+    {
+      "phrase": "ketchup",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "tomato ketchup",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "soya sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "ice cream",
+      "hsn_code": "2105"
+    },
+    {
+      "phrase": "kulfi",
+      "hsn_code": "2105"
+    },
+    {
+      "phrase": "pan masala",
+      "hsn_code": "21069020"
+    },
+    {
+      "phrase": "cola",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "soft drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "cold drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "aerated drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "soda drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "lemon soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "mineral water",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "packaged drinking water",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "bottled water",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "plain soda",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "fruit juice",
+      "hsn_code": "2009"
+    },
+    {
+      "phrase": "orange juice",
+      "hsn_code": "2009"
+    },
+    {
+      "phrase": "apple juice",
+      "hsn_code": "2009"
+    },
+    {
+      "phrase": "coconut water",
+      "hsn_code": "2009"
+    },
+    {
+      "phrase": "fruit drink",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 fruit-pulp/juice-based drinks are 2202 99 21/29 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "mango drink",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 fruit-pulp/juice-based drinks are 2202 99 21/29 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "juice drink",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 fruit-pulp/juice-based drinks are 2202 99 21/29 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "flavoured milk",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 milk-based beverages are 2202 99 31/39 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "milkshake",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 milk-based beverages are 2202 99 31/39 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "cold coffee drink",
+      "hsn_code": "2202",
+      "note": "From 01-05-2026 milk-based beverages are 2202 99 31/39 (5%) - query the 8-digit code."
+    },
+    {
+      "phrase": "energy drink",
+      "hsn_code": "22029100",
+      "note": "Caffeinated beverages 40% from 01-05-2026 per secondary sources."
+    },
+    {
+      "phrase": "beer",
+      "hsn_code": "2203",
+      "note": "Alcoholic liquor for human consumption is outside GST. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mobile phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "smartphone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "mobile",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "cell phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "smart phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "feature phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "wifi router",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "router",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "smartwatch",
+      "hsn_code": "8517",
+      "note": "Smartwatches are commonly classified under 8517 62; confirm."
+    },
+    {
+      "phrase": "smart watch",
+      "hsn_code": "8517",
+      "note": "Smartwatches are commonly classified under 8517 62; confirm."
+    },
+    {
+      "phrase": "laptop",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "notebook computer",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "computer",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "desktop computer",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "cpu",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "tablet computer",
+      "hsn_code": "8471",
+      "strength": "related",
+      "note": "Classification of tablet computers (8471 vs 8517) varies - confirm."
+    },
+    {
+      "phrase": "ipad",
+      "hsn_code": "8471",
+      "strength": "related",
+      "note": "Classification of tablet computers (8471 vs 8517) varies - confirm."
+    },
+    {
+      "phrase": "android tablet",
+      "hsn_code": "8471",
+      "strength": "related",
+      "note": "Classification of tablet computers (8471 vs 8517) varies - confirm."
+    },
+    {
+      "phrase": "tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "television",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "led tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "smart tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "monitor",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "computer monitor",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "projector",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "ac",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "air conditioner",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "split ac",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "window ac",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "refrigerator",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "fridge",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "washing machine",
+      "hsn_code": "8450",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ceiling fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "table fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "pedestal fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mixer grinder",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "juicer",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mixer",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "electric iron",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "geyser",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "water heater",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hair dryer",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "induction cooktop",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "headphones",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "earphones",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "earbuds",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "bluetooth speaker",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "speaker",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mobile charger",
+      "hsn_code": "8504",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "charger",
+      "hsn_code": "8504",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "adapter",
+      "hsn_code": "8504",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "power bank",
+      "hsn_code": "8507",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "inverter battery",
+      "hsn_code": "8507",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "aa battery",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "battery cell",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led bulb",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led lamp",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "printer",
+      "hsn_code": "8443",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cctv camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wrist watch",
+      "hsn_code": "9102",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wristwatch",
+      "hsn_code": "9102",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "t-shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "tshirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "t shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "vest",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "banian",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "formal shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "mens shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "jeans",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "trousers",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "pant",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "pants",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "shorts",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "blazer",
+      "hsn_code": "6203",
+      "note": "Men's/boys' woven; women's is 6204, knitted is 61xx."
+    },
+    {
+      "phrase": "kurta",
+      "hsn_code": "6211",
+      "note": "Women's kurtas/suits may be 6204, knitted ones 61xx - confirm fabric and gender."
+    },
+    {
+      "phrase": "kurti",
+      "hsn_code": "6211",
+      "note": "Women's kurtas/suits may be 6204, knitted ones 61xx - confirm fabric and gender."
+    },
+    {
+      "phrase": "salwar suit",
+      "hsn_code": "6204"
+    },
+    {
+      "phrase": "dress",
+      "hsn_code": "6204"
+    },
+    {
+      "phrase": "skirt",
+      "hsn_code": "6204"
+    },
+    {
+      "phrase": "lehenga",
+      "hsn_code": "6204"
+    },
+    {
+      "phrase": "blouse",
+      "hsn_code": "6206"
+    },
+    {
+      "phrase": "ladies top",
+      "hsn_code": "6206"
+    },
+    {
+      "phrase": "leggings",
+      "hsn_code": "6104"
+    },
+    {
+      "phrase": "sweater",
+      "hsn_code": "6110"
+    },
+    {
+      "phrase": "sweatshirt",
+      "hsn_code": "6110"
+    },
+    {
+      "phrase": "hoodie",
+      "hsn_code": "6110"
+    },
+    {
+      "phrase": "cardigan",
+      "hsn_code": "6110"
+    },
+    {
+      "phrase": "socks",
+      "hsn_code": "6115"
+    },
+    {
+      "phrase": "baby clothes",
+      "hsn_code": "6111"
+    },
+    {
+      "phrase": "romper",
+      "hsn_code": "6111"
+    },
+    {
+      "phrase": "jacket",
+      "hsn_code": "6201"
+    },
+    {
+      "phrase": "windcheater",
+      "hsn_code": "6201"
+    },
+    {
+      "phrase": "shawl",
+      "hsn_code": "6214"
+    },
+    {
+      "phrase": "stole",
+      "hsn_code": "6214"
+    },
+    {
+      "phrase": "dupatta",
+      "hsn_code": "6214"
+    },
+    {
+      "phrase": "scarf",
+      "hsn_code": "6214"
+    },
+    {
+      "phrase": "towel",
+      "hsn_code": "6302"
+    },
+    {
+      "phrase": "bedsheet",
+      "hsn_code": "6302"
+    },
+    {
+      "phrase": "bed sheet",
+      "hsn_code": "6302"
+    },
+    {
+      "phrase": "pillow cover",
+      "hsn_code": "6302"
+    },
+    {
+      "phrase": "curtain",
+      "hsn_code": "6303"
+    },
+    {
+      "phrase": "curtains",
+      "hsn_code": "6303"
+    },
+    {
+      "phrase": "blanket",
+      "hsn_code": "6301"
+    },
+    {
+      "phrase": "shoes",
+      "hsn_code": "64",
+      "note": "Chapter-level match; pick the 4-digit heading by upper material."
+    },
+    {
+      "phrase": "footwear",
+      "hsn_code": "64",
+      "note": "Chapter-level match; pick the 4-digit heading by upper material."
+    },
+    {
+      "phrase": "leather shoes",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "formal shoes",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "kolhapuri chappal",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "sports shoes",
+      "hsn_code": "6404"
+    },
+    {
+      "phrase": "sneakers",
+      "hsn_code": "6404"
+    },
+    {
+      "phrase": "running shoes",
+      "hsn_code": "6404"
+    },
+    {
+      "phrase": "canvas shoes",
+      "hsn_code": "6404"
+    },
+    {
+      "phrase": "slippers",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "chappal",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "flip flops",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "sandals",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "hawai chappal",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "cement",
+      "hsn_code": "2523"
+    },
+    {
+      "phrase": "notebook",
+      "hsn_code": "4820",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "register",
+      "hsn_code": "4820",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "diary",
+      "hsn_code": "4820",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "tissue paper",
+      "hsn_code": "4818",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "toilet paper",
+      "hsn_code": "4818",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "steel utensils",
+      "hsn_code": "7323",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "steel plate",
+      "hsn_code": "7323",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "bicycle",
+      "hsn_code": "8712",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cycle",
+      "hsn_code": "8712",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mattress",
+      "hsn_code": "9404",
+      "note": "Cotton quilts have a Rs 2500 price threshold (5%/18%) not seeded. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "pillow",
+      "hsn_code": "9404",
+      "note": "Cotton quilts have a Rs 2500 price threshold (5%/18%) not seeded. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "quilt",
+      "hsn_code": "9404",
+      "note": "Cotton quilts have a Rs 2500 price threshold (5%/18%) not seeded. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hotel room",
+      "hsn_code": "996311"
+    },
+    {
+      "phrase": "room tariff",
+      "hsn_code": "996311"
+    },
+    {
+      "phrase": "hotel stay",
+      "hsn_code": "996311"
+    },
+    {
+      "phrase": "lodge",
+      "hsn_code": "996311"
+    },
+    {
+      "phrase": "restaurant",
+      "hsn_code": "996331"
+    },
+    {
+      "phrase": "restaurant bill",
+      "hsn_code": "996331"
+    },
+    {
+      "phrase": "food delivery from restaurant",
+      "hsn_code": "996331"
+    },
+    {
+      "phrase": "cafe",
+      "hsn_code": "996331"
+    },
+    {
+      "phrase": "salon",
+      "hsn_code": "999721"
+    },
+    {
+      "phrase": "haircut",
+      "hsn_code": "999721"
+    },
+    {
+      "phrase": "barber",
+      "hsn_code": "999721"
+    },
+    {
+      "phrase": "manicure",
+      "hsn_code": "999722"
+    },
+    {
+      "phrase": "pedicure",
+      "hsn_code": "999722"
+    },
+    {
+      "phrase": "gym",
+      "hsn_code": "999723"
+    },
+    {
+      "phrase": "gym membership",
+      "hsn_code": "999723"
+    },
+    {
+      "phrase": "yoga classes",
+      "hsn_code": "999723"
+    },
+    {
+      "phrase": "fitness centre",
+      "hsn_code": "999723"
+    },
+    {
+      "phrase": "spa",
+      "hsn_code": "999723"
+    },
+    {
+      "phrase": "beauty parlour",
+      "hsn_code": "999729"
+    },
+    {
+      "phrase": "facial",
+      "hsn_code": "999729"
+    },
+    {
+      "phrase": "health insurance",
+      "hsn_code": "997133",
+      "note": "Exemption is for individual policies only; group policies are taxable."
+    },
+    {
+      "phrase": "mediclaim",
+      "hsn_code": "997133",
+      "note": "Exemption is for individual policies only; group policies are taxable."
+    },
+    {
+      "phrase": "life insurance",
+      "hsn_code": "997131",
+      "note": "Exemption is for individual policies only; group policies are taxable."
+    },
+    {
+      "phrase": "term insurance",
+      "hsn_code": "997131",
+      "note": "Exemption is for individual policies only; group policies are taxable."
+    },
+    {
+      "phrase": "doctor consultation",
+      "hsn_code": "9993"
+    },
+    {
+      "phrase": "hospital",
+      "hsn_code": "9993"
+    },
+    {
+      "phrase": "clinic",
+      "hsn_code": "9993"
+    },
+    {
+      "phrase": "diagnostic test",
+      "hsn_code": "9993"
+    },
+    {
+      "phrase": "pathology lab",
+      "hsn_code": "9993"
+    },
+    {
+      "phrase": "gel",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "cream",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "lotion",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "drops",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "spray",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "suspension",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "sachet",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "granules",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "powder",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "solution",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "liquid",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "rub",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "balm",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Dosage-form word: medicament in retail form is 3004, but the same form exists for cosmetics (3304/3305) and food supplements (2106) - confirm it is a medicament."
+    },
+    {
+      "phrase": "inhaler",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "rotacaps",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "respules",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "eye ointment",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "skin ointment",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antiseptic cream",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antifungal cream",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antibiotic ointment",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "pain relief gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "pain relief spray",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "pain relief cream",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "oral suspension syrup",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "dry syrup",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "nasal drops",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "eye gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "vaginal gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "oral gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "mouth ulcer gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "injection vial",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "insulin injection",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "ors sachet",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "oral rehydration salts",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antacid",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antacid syrup",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antacid gel",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "digestive tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "iron tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "calcium supplement tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "vitamin d3 sachet",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "cough rub",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "vapour rub",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "vapor rub",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "chest rub",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "cold rub",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "cough lozenges",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "throat lozenges",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "laxative",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antiallergic tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "medicated lotion",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "medicated powder",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "medicated shampoo",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "ayurvedic oil",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "ayurvedic churna",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "homeopathic drops",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "homoeopathic dilution",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "mother tincture",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "effervescent tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "chewable tablets",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "suppository",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "transdermal patch",
+      "hsn_code": "3004",
+      "note": "Retail medicament assumed (3004). Medicated shampoo/powder and some rubs/balms have been classified elsewhere (3305/3304) - confirm. 33 nil-rated drugs need a name-level check."
+    },
+    {
+      "phrase": "antiseptic liquid",
+      "hsn_code": "3808",
+      "strength": "related",
+      "note": "Antiseptic liquids are classified by some as 3808 94 (disinfectant) and by others as 3004 - confirm."
+    },
+    {
+      "phrase": "antiseptic liquid",
+      "hsn_code": "3004",
+      "strength": "related",
+      "note": "Medicated antiseptic in retail form may be 3004 - confirm."
+    },
+    {
+      "phrase": "glucose powder",
+      "hsn_code": "1702",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "glucose-d",
+      "hsn_code": "1702",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dextrose powder",
+      "hsn_code": "1702",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "condom",
+      "hsn_code": "4014",
+      "note": "Research lists nipples at 5% but no rule is seeded for 4014. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "condoms",
+      "hsn_code": "4014",
+      "note": "Research lists nipples at 5% but no rule is seeded for 4014. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hot water bag",
+      "hsn_code": "4014",
+      "note": "Research lists nipples at 5% but no rule is seeded for 4014. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "feeding bottle nipple",
+      "hsn_code": "4014",
+      "note": "Research lists nipples at 5% but no rule is seeded for 4014. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "teat",
+      "hsn_code": "4014",
+      "note": "Research lists nipples at 5% but no rule is seeded for 4014. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "petroleum jelly",
+      "hsn_code": "2712",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "vaseline",
+      "hsn_code": "2712",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mouthwash",
+      "hsn_code": "3306",
+      "note": "5% seed rule covers dentifrices (330610) only. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dental floss",
+      "hsn_code": "3306",
+      "note": "5% seed rule covers dentifrices (330610) only. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "baby powder",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "lip balm",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "body lotion",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "nail polish",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "face powder",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "foundation",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "compact powder",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cold cream",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "fairness cream",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "night cream",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "face serum",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "makeup remover",
+      "hsn_code": "3304",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "face wash",
+      "hsn_code": "3401",
+      "strength": "related",
+      "note": "Surfactant-based facial cleansers are 3401; cream cleansers may be 3304."
+    },
+    {
+      "phrase": "face wash",
+      "hsn_code": "3304",
+      "strength": "related",
+      "note": "Cream cleansers may be 3304; surfactant-based ones are 3401."
+    },
+    {
+      "phrase": "hair dye",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "hair colour",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "hair color",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "henna hair colour",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "hair gel",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "hair serum",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "conditioner",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "hair conditioner",
+      "hsn_code": "3305",
+      "note": "5% seed rule on 3305 is scoped to hair oil and shampoo; other hair preparations not verified."
+    },
+    {
+      "phrase": "baby wipes",
+      "hsn_code": "3401",
+      "strength": "related",
+      "note": "Wipes impregnated with soap/detergent are 3401; with cosmetics 3307 - confirm."
+    },
+    {
+      "phrase": "wet wipes",
+      "hsn_code": "3401",
+      "strength": "related",
+      "note": "Wipes impregnated with soap/detergent are 3401; with cosmetics 3307 - confirm."
+    },
+    {
+      "phrase": "shaving foam",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "aftershave",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "room freshener",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "air freshener",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "agarbatti",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "incense sticks",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dhoop",
+      "hsn_code": "3307",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "razor",
+      "hsn_code": "8212",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "razor blade",
+      "hsn_code": "8212",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "shaving blade",
+      "hsn_code": "8212",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "disposable razor",
+      "hsn_code": "8212",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mosquito repellent",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mosquito coil",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mosquito liquid vaporizer refill",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cockroach spray",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "insect killer spray",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "rat poison",
+      "hsn_code": "3808",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "floor cleaner",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "toilet cleaner",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "glass cleaner",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dishwash bar",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dishwash gel",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "liquid detergent",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laundry detergent",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "fabric conditioner",
+      "hsn_code": "3402",
+      "note": "Dishwash bars are sometimes classified as 3401 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "candle",
+      "hsn_code": "3406",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "candles",
+      "hsn_code": "3406",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "matchbox",
+      "hsn_code": "3605",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "match box",
+      "hsn_code": "3605",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "matches",
+      "hsn_code": "3605",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "adult diaper pants",
+      "hsn_code": "9619",
+      "strength": "related"
+    },
+    {
+      "phrase": "baby wipes pack",
+      "hsn_code": "9619",
+      "strength": "related"
+    },
+    {
+      "phrase": "digital thermometer for fever",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "ear thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "forehead thermometer",
+      "hsn_code": "9025",
+      "note": "5% rule covers medical thermometers only."
+    },
+    {
+      "phrase": "weighing scale",
+      "hsn_code": "84",
+      "strength": "related",
+      "note": "Personal weighing scales are 8423 (not in this seed master). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "body weight scale",
+      "hsn_code": "84",
+      "strength": "related",
+      "note": "Personal weighing scales are 8423 (not in this seed master). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "oats",
+      "hsn_code": "1104",
+      "note": "Instant/flavoured prepared oats may be 1904."
+    },
+    {
+      "phrase": "rolled oats",
+      "hsn_code": "1104",
+      "note": "Instant/flavoured prepared oats may be 1904."
+    },
+    {
+      "phrase": "instant oats",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "masala oats",
+      "hsn_code": "1904"
+    },
+    {
+      "phrase": "suji",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "sooji",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "rava",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "semolina",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "dalia",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "daliya",
+      "hsn_code": "1103"
+    },
+    {
+      "phrase": "corn flour",
+      "hsn_code": "1108"
+    },
+    {
+      "phrase": "cornflour",
+      "hsn_code": "1108"
+    },
+    {
+      "phrase": "corn starch",
+      "hsn_code": "1108"
+    },
+    {
+      "phrase": "arrowroot powder",
+      "hsn_code": "1108"
+    },
+    {
+      "phrase": "peanuts",
+      "hsn_code": "1202",
+      "note": "Roasted or salted peanuts are 2008."
+    },
+    {
+      "phrase": "groundnuts",
+      "hsn_code": "1202",
+      "note": "Roasted or salted peanuts are 2008."
+    },
+    {
+      "phrase": "moongphali",
+      "hsn_code": "1202",
+      "note": "Roasted or salted peanuts are 2008."
+    },
+    {
+      "phrase": "roasted peanuts",
+      "hsn_code": "2008",
+      "note": "Roasted gram may be 2008 or 1904 - confirm."
+    },
+    {
+      "phrase": "salted peanuts",
+      "hsn_code": "2008",
+      "note": "Roasted gram may be 2008 or 1904 - confirm."
+    },
+    {
+      "phrase": "peanut butter",
+      "hsn_code": "2008",
+      "note": "Roasted gram may be 2008 or 1904 - confirm."
+    },
+    {
+      "phrase": "roasted chana",
+      "hsn_code": "2008",
+      "note": "Roasted gram may be 2008 or 1904 - confirm."
+    },
+    {
+      "phrase": "masala peanuts",
+      "hsn_code": "2008",
+      "note": "Roasted gram may be 2008 or 1904 - confirm."
+    },
+    {
+      "phrase": "mustard seeds",
+      "hsn_code": "1207"
+    },
+    {
+      "phrase": "rai",
+      "hsn_code": "1207"
+    },
+    {
+      "phrase": "sesame seeds",
+      "hsn_code": "1207"
+    },
+    {
+      "phrase": "til",
+      "hsn_code": "1207"
+    },
+    {
+      "phrase": "hing",
+      "hsn_code": "1301",
+      "note": "Compounded hing (with flour) may be 2106 or 0910 - confirm."
+    },
+    {
+      "phrase": "asafoetida",
+      "hsn_code": "1301",
+      "note": "Compounded hing (with flour) may be 2106 or 0910 - confirm."
+    },
+    {
+      "phrase": "cinnamon",
+      "hsn_code": "0906"
+    },
+    {
+      "phrase": "dalchini",
+      "hsn_code": "0906"
+    },
+    {
+      "phrase": "cloves",
+      "hsn_code": "0907"
+    },
+    {
+      "phrase": "laung",
+      "hsn_code": "0907"
+    },
+    {
+      "phrase": "garam masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "chaat masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "sambar masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "chole masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "pav bhaji masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "kitchen king masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "biryani masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "meat masala",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "mixed spices",
+      "hsn_code": "0910",
+      "note": "Mixtures of spices are 0910 91; mixed condiments/seasonings with other ingredients are 2103 90 - confirm."
+    },
+    {
+      "phrase": "coriander powder",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "dhania powder",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "jeera powder",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "cumin powder",
+      "hsn_code": "0909"
+    },
+    {
+      "phrase": "chilli powder",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "mirchi powder",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "kashmiri chilli",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "dry red chilli",
+      "hsn_code": "0904"
+    },
+    {
+      "phrase": "olive oil",
+      "hsn_code": "1509"
+    },
+    {
+      "phrase": "rice bran oil",
+      "hsn_code": "1515"
+    },
+    {
+      "phrase": "sesame oil",
+      "hsn_code": "1515"
+    },
+    {
+      "phrase": "gingelly oil",
+      "hsn_code": "1515"
+    },
+    {
+      "phrase": "til oil",
+      "hsn_code": "1515"
+    },
+    {
+      "phrase": "vanaspati",
+      "hsn_code": "1516"
+    },
+    {
+      "phrase": "dalda",
+      "hsn_code": "1516"
+    },
+    {
+      "phrase": "hydrogenated vegetable oil",
+      "hsn_code": "1516"
+    },
+    {
+      "phrase": "refined oil",
+      "hsn_code": "15",
+      "strength": "related",
+      "note": "Chapter-level: the heading depends on the oil (1507-1515)."
+    },
+    {
+      "phrase": "cooking oil",
+      "hsn_code": "15",
+      "strength": "related",
+      "note": "Chapter-level: the heading depends on the oil (1507-1515)."
+    },
+    {
+      "phrase": "edible oil",
+      "hsn_code": "15",
+      "strength": "related",
+      "note": "Chapter-level: the heading depends on the oil (1507-1515)."
+    },
+    {
+      "phrase": "malt drink",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "malted milk drink",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "health drink powder",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "baby food",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "infant cereal",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "infant formula",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "cerelac",
+      "hsn_code": "1901",
+      "note": "Malt drinks with 40% or more cocoa, and cocoa-based health drinks, are 1806 - confirm composition."
+    },
+    {
+      "phrase": "chocolate health drink",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "cocoa powder drink mix",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "drinking chocolate",
+      "hsn_code": "1806"
+    },
+    {
+      "phrase": "cocoa powder",
+      "hsn_code": "18",
+      "strength": "related",
+      "note": "Unsweetened cocoa powder is 1805 (not in this seed master)."
+    },
+    {
+      "phrase": "frozen peas",
+      "hsn_code": "0710"
+    },
+    {
+      "phrase": "frozen vegetables",
+      "hsn_code": "0710"
+    },
+    {
+      "phrase": "frozen sweet corn",
+      "hsn_code": "0710"
+    },
+    {
+      "phrase": "frozen french fries",
+      "hsn_code": "2004"
+    },
+    {
+      "phrase": "frozen fries",
+      "hsn_code": "2004"
+    },
+    {
+      "phrase": "frozen potato wedges",
+      "hsn_code": "2004"
+    },
+    {
+      "phrase": "chicken",
+      "hsn_code": "0207"
+    },
+    {
+      "phrase": "chicken breast",
+      "hsn_code": "0207"
+    },
+    {
+      "phrase": "frozen chicken",
+      "hsn_code": "0207"
+    },
+    {
+      "phrase": "fresh chicken",
+      "hsn_code": "0207"
+    },
+    {
+      "phrase": "mutton",
+      "hsn_code": "0204"
+    },
+    {
+      "phrase": "goat meat",
+      "hsn_code": "0204"
+    },
+    {
+      "phrase": "yeast",
+      "hsn_code": "2102"
+    },
+    {
+      "phrase": "baking powder",
+      "hsn_code": "2102"
+    },
+    {
+      "phrase": "dry yeast",
+      "hsn_code": "2102"
+    },
+    {
+      "phrase": "soup",
+      "hsn_code": "2104"
+    },
+    {
+      "phrase": "instant soup",
+      "hsn_code": "2104"
+    },
+    {
+      "phrase": "soup powder",
+      "hsn_code": "2104"
+    },
+    {
+      "phrase": "vinegar",
+      "hsn_code": "2209"
+    },
+    {
+      "phrase": "apple cider vinegar",
+      "hsn_code": "2209"
+    },
+    {
+      "phrase": "mayonnaise",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "chutney",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "schezwan sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "pizza sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "pasta sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "chilli sauce",
+      "hsn_code": "2103"
+    },
+    {
+      "phrase": "custard powder",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "jelly crystals",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "sugar free sweetener",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "sweetener",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "sharbat",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "squash",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "rooh afza",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "drink concentrate",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "rasna",
+      "hsn_code": "2106",
+      "note": "Food preparations n.e.c. (2106). The 5% seed rule on 210690 is scoped to namkeen-type items only."
+    },
+    {
+      "phrase": "popcorn",
+      "hsn_code": "1904",
+      "note": "Popcorn may be 1904 or 2008 - confirm."
+    },
+    {
+      "phrase": "ready to eat popcorn",
+      "hsn_code": "1904",
+      "note": "Popcorn may be 1904 or 2008 - confirm."
+    },
+    {
+      "phrase": "frozen dessert",
+      "hsn_code": "2105"
+    },
+    {
+      "phrase": "cheese spread",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "cheese cubes",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "processed cheese",
+      "hsn_code": "0406"
+    },
+    {
+      "phrase": "fresh cream",
+      "hsn_code": "0401",
+      "note": "The Nil seed rule on 0401 is scoped to UHT milk only."
+    },
+    {
+      "phrase": "dairy cream",
+      "hsn_code": "0401",
+      "note": "The Nil seed rule on 0401 is scoped to UHT milk only."
+    },
+    {
+      "phrase": "toned milk pouch",
+      "hsn_code": "0401",
+      "note": "The Nil seed rule on 0401 is scoped to UHT milk only."
+    },
+    {
+      "phrase": "full cream milk",
+      "hsn_code": "0401",
+      "note": "The Nil seed rule on 0401 is scoped to UHT milk only."
+    },
+    {
+      "phrase": "khoa",
+      "hsn_code": "04",
+      "strength": "related",
+      "note": "Khoa classification (0402/0406) not established - confirm."
+    },
+    {
+      "phrase": "mawa",
+      "hsn_code": "04",
+      "strength": "related",
+      "note": "Khoa classification (0402/0406) not established - confirm."
+    },
+    {
+      "phrase": "tea bags",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "masala tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "assam tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "darjeeling tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "leaf tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "dust tea",
+      "hsn_code": "0902"
+    },
+    {
+      "phrase": "coffee powder",
+      "hsn_code": "0901",
+      "note": "Instant coffee is 2101."
+    },
+    {
+      "phrase": "filter coffee powder",
+      "hsn_code": "0901",
+      "note": "Instant coffee is 2101."
+    },
+    {
+      "phrase": "ground coffee",
+      "hsn_code": "0901",
+      "note": "Instant coffee is 2101."
+    },
+    {
+      "phrase": "dates",
+      "hsn_code": "0804"
+    },
+    {
+      "phrase": "khajur",
+      "hsn_code": "0804"
+    },
+    {
+      "phrase": "mango",
+      "hsn_code": "0804"
+    },
+    {
+      "phrase": "mangoes",
+      "hsn_code": "0804"
+    },
+    {
+      "phrase": "guava",
+      "hsn_code": "0804"
+    },
+    {
+      "phrase": "banana",
+      "hsn_code": "0803"
+    },
+    {
+      "phrase": "bananas",
+      "hsn_code": "0803"
+    },
+    {
+      "phrase": "apple",
+      "hsn_code": "0808"
+    },
+    {
+      "phrase": "apples",
+      "hsn_code": "0808"
+    },
+    {
+      "phrase": "dry fruits",
+      "hsn_code": "08",
+      "strength": "related",
+      "note": "Chapter-level: pick the heading by fruit/nut."
+    },
+    {
+      "phrase": "mixed dry fruits",
+      "hsn_code": "08",
+      "strength": "related",
+      "note": "Chapter-level: pick the heading by fruit/nut."
+    },
+    {
+      "phrase": "pav",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "bun",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "burger bun",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "pizza base",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "wafer biscuits",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "digestive biscuits",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "marie biscuits",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "khakhra",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "toast",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "bread toast",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "muffin",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "cupcake",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "brownie",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "puff pastry",
+      "hsn_code": "1905"
+    },
+    {
+      "phrase": "chocolate cookies",
+      "hsn_code": "1905",
+      "note": "Biscuits/cookies with chocolate stay in 1905."
+    },
+    {
+      "phrase": "chocolate chip cookies",
+      "hsn_code": "1905",
+      "note": "Biscuits/cookies with chocolate stay in 1905."
+    },
+    {
+      "phrase": "energy bar",
+      "hsn_code": "1904",
+      "strength": "related",
+      "note": "Cereal bars are usually 1904; chocolate-coated bars may be 1806 - confirm."
+    },
+    {
+      "phrase": "protein bar",
+      "hsn_code": "1904",
+      "strength": "related",
+      "note": "Cereal bars are usually 1904; chocolate-coated bars may be 1806 - confirm."
+    },
+    {
+      "phrase": "granola bar",
+      "hsn_code": "1904",
+      "strength": "related",
+      "note": "Cereal bars are usually 1904; chocolate-coated bars may be 1806 - confirm."
+    },
+    {
+      "phrase": "muesli bar",
+      "hsn_code": "1904",
+      "strength": "related",
+      "note": "Cereal bars are usually 1904; chocolate-coated bars may be 1806 - confirm."
+    },
+    {
+      "phrase": "noodles cup",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "cup noodles",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "hakka noodles",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "rice noodles",
+      "hsn_code": "1902"
+    },
+    {
+      "phrase": "pani puri",
+      "hsn_code": "1905",
+      "strength": "related",
+      "note": "Unfried snack pellets may be 1903/1905 - confirm."
+    },
+    {
+      "phrase": "golgappa puri",
+      "hsn_code": "1905",
+      "strength": "related",
+      "note": "Unfried snack pellets may be 1903/1905 - confirm."
+    },
+    {
+      "phrase": "fryums",
+      "hsn_code": "1905",
+      "strength": "related",
+      "note": "Unfried snack pellets may be 1903/1905 - confirm."
+    },
+    {
+      "phrase": "sugar cubes",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "brown sugar",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "mishri",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "khandsari",
+      "hsn_code": "1701"
+    },
+    {
+      "phrase": "toffees",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "mints",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "mouth freshener mints",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "lollipops",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "jelly candy",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "gummies",
+      "hsn_code": "1704"
+    },
+    {
+      "phrase": "mukhwas",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Mouth fresheners (supari-free) are generally 2106 - confirm."
+    },
+    {
+      "phrase": "mouth freshener",
+      "hsn_code": "2106",
+      "strength": "related",
+      "note": "Mouth fresheners (supari-free) are generally 2106 - confirm."
+    },
+    {
+      "phrase": "soft drink bottle",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "carbonated soft drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "cola drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "lemonade",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "lime soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "orange soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "tonic water",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "ginger ale",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "club soda flavoured",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "fizzy drink",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "aerated water",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "flavoured soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "masala soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "jeera soda",
+      "hsn_code": "220210"
+    },
+    {
+      "phrase": "soda",
+      "hsn_code": "220210",
+      "strength": "related",
+      "note": "Unflavoured, unsweetened soda water is 2201."
+    },
+    {
+      "phrase": "cold drink bottle",
+      "hsn_code": "220210",
+      "strength": "related",
+      "note": "Unflavoured, unsweetened soda water is 2201."
+    },
+    {
+      "phrase": "soda water",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "club soda",
+      "hsn_code": "2201"
+    },
+    {
+      "phrase": "sports drink",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "electrolyte drink",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "iced tea",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "ice tea",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "glucose drink",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "nimbu pani bottle",
+      "hsn_code": "2202",
+      "note": "Since 01-05-2026 2202 is split into 8-digit lines with different rates - query the 8-digit code."
+    },
+    {
+      "phrase": "mango juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "litchi juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "mixed fruit juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "guava juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "pineapple juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "tomato juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "aloe vera juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "amla juice",
+      "hsn_code": "2009",
+      "note": "100% juice is 2009; fruit drinks/nectars with added water and sugar are 2202 99 21/29."
+    },
+    {
+      "phrase": "mango drink bottle",
+      "hsn_code": "2202",
+      "note": "Fruit-pulp/juice based drinks: 2202 99 21/29 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "fruit nectar",
+      "hsn_code": "2202",
+      "note": "Fruit-pulp/juice based drinks: 2202 99 21/29 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "fruit beverage",
+      "hsn_code": "2202",
+      "note": "Fruit-pulp/juice based drinks: 2202 99 21/29 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "lassi bottle",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "chaas bottle",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "flavoured buttermilk",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "masala chaas",
+      "hsn_code": "0403"
+    },
+    {
+      "phrase": "cold coffee",
+      "hsn_code": "2202",
+      "note": "Milk-based beverages: 2202 99 31/39 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "coffee milkshake",
+      "hsn_code": "2202",
+      "note": "Milk-based beverages: 2202 99 31/39 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "badam milk",
+      "hsn_code": "2202",
+      "note": "Milk-based beverages: 2202 99 31/39 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "rose milk",
+      "hsn_code": "2202",
+      "note": "Milk-based beverages: 2202 99 31/39 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "chocolate milk",
+      "hsn_code": "2202",
+      "note": "Milk-based beverages: 2202 99 31/39 (5% from 01-05-2026)."
+    },
+    {
+      "phrase": "red bull",
+      "hsn_code": "22029100",
+      "strength": "related",
+      "note": "Brand names: caffeinated energy drinks per secondary sources."
+    },
+    {
+      "phrase": "monster energy",
+      "hsn_code": "22029100",
+      "strength": "related",
+      "note": "Brand names: caffeinated energy drinks per secondary sources."
+    },
+    {
+      "phrase": "mouse",
+      "hsn_code": "847160",
+      "strength": "related",
+      "note": "Generic words: computer input units are 8471 60 (a 'mouse' could also be a toy)."
+    },
+    {
+      "phrase": "keyboard",
+      "hsn_code": "847160",
+      "strength": "related",
+      "note": "Generic words: computer input units are 8471 60 (a 'mouse' could also be a toy)."
+    },
+    {
+      "phrase": "computer mouse",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "wireless mouse",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "optical mouse",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "gaming mouse",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "computer keyboard",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "wireless keyboard",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "keyboard and mouse combo",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "scanner",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "barcode scanner",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "webcam",
+      "hsn_code": "847160",
+      "note": "Webcams are often classified as 8525 (cameras) - confirm."
+    },
+    {
+      "phrase": "webcam",
+      "hsn_code": "8525",
+      "strength": "related"
+    },
+    {
+      "phrase": "hard disk",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "hard drive",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "external hard disk",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "external hard drive",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "hdd",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "ssd",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "solid state drive",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "internal ssd",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "portable ssd",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "nas storage",
+      "hsn_code": "847170",
+      "note": "Storage units of 8471 70. Some portable SSDs are classified as 8523 51 - confirm."
+    },
+    {
+      "phrase": "pen drive",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "pendrive",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "usb flash drive",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "usb pen drive",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "flash drive",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "memory card",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "sd card",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "micro sd card",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "microsd card",
+      "hsn_code": "852351",
+      "note": "Solid-state non-volatile storage (8523 51). No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ram",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "computer ram",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laptop ram",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "motherboard",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "graphics card",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "processor",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cpu cabinet",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "smps",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laptop battery",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laptop keyboard replacement",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cooling pad",
+      "hsn_code": "847330",
+      "note": "Parts of 8471 machines (8473 30). Processors (ICs) are 8542 and laptop batteries 8507 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laptop bag",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "backpack",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "school bag",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "handbag",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wallet",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "purse",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "suitcase",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "trolley bag",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "jewellery box",
+      "hsn_code": "4202",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mobile cover",
+      "hsn_code": "3926",
+      "strength": "related",
+      "note": "Plastic phone cases are often 3926; leather/textile cases 4202 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "phone case",
+      "hsn_code": "3926",
+      "strength": "related",
+      "note": "Plastic phone cases are often 3926; leather/textile cases 4202 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mobile back cover",
+      "hsn_code": "3926",
+      "strength": "related",
+      "note": "Plastic phone cases are often 3926; leather/textile cases 4202 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "calculator",
+      "hsn_code": "8470",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "scientific calculator",
+      "hsn_code": "8470",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "usb cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "data cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "charging cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hdmi cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "type c cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "lan cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ethernet cable",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "electric wire",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "copper wire",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "extension cord",
+      "hsn_code": "8544",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "switch",
+      "hsn_code": "8536",
+      "strength": "related",
+      "note": "Generic words: electrical switches/sockets are 8536."
+    },
+    {
+      "phrase": "socket",
+      "hsn_code": "8536",
+      "strength": "related",
+      "note": "Generic words: electrical switches/sockets are 8536."
+    },
+    {
+      "phrase": "extension board",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "power strip",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "spike guard",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "electrical switch",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "modular switch",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "plug socket",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mcb",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "fuse",
+      "hsn_code": "8536",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "inverter",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ups",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "voltage stabilizer",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "stabilizer",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mobile adapter",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laptop charger",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "fast charger",
+      "hsn_code": "8504",
+      "note": "Inverter batteries are 8507. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "tube light",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led tube light",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led batten",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ceiling light",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "table lamp",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "decorative lights",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led strip light",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "emergency light",
+      "hsn_code": "9405",
+      "note": "LED lamps (bulbs) are 8539; luminaires/fittings are 9405. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "torch",
+      "hsn_code": "8513",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "flashlight",
+      "hsn_code": "8513",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "rechargeable torch",
+      "hsn_code": "8513",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "trimmer",
+      "hsn_code": "8510",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "beard trimmer",
+      "hsn_code": "8510",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hair clipper",
+      "hsn_code": "8510",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "electric shaver",
+      "hsn_code": "8510",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "epilator",
+      "hsn_code": "8510",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "electric kettle",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "microwave oven",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "microwave",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "otg oven",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "toaster",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "sandwich maker",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "room heater",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hair straightener",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "induction stove",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "rice cooker",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "air fryer",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "coffee maker",
+      "hsn_code": "8516",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "vacuum cleaner",
+      "hsn_code": "8508",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "robot vacuum",
+      "hsn_code": "8508",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "water purifier",
+      "hsn_code": "8421",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ro water purifier",
+      "hsn_code": "8421",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ro purifier",
+      "hsn_code": "8421",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "air cooler",
+      "hsn_code": "8479",
+      "note": "Evaporative air coolers are commonly classified 8479 60 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "desert cooler",
+      "hsn_code": "8479",
+      "note": "Evaporative air coolers are commonly classified 8479 60 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "room cooler",
+      "hsn_code": "8479",
+      "note": "Evaporative air coolers are commonly classified 8479 60 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "exhaust fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wall fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "bldc fan",
+      "hsn_code": "8414",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "hand blender",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "food processor",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wet grinder",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "chopper electric",
+      "hsn_code": "8509",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "double door refrigerator",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "single door refrigerator",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "deep freezer",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "mini fridge",
+      "hsn_code": "8418",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "front load washing machine",
+      "hsn_code": "8450",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "top load washing machine",
+      "hsn_code": "8450",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "bluetooth earphones",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wireless earbuds",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "tws earbuds",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "neckband",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "bluetooth neckband",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "soundbar",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "home theatre speaker",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "wired earphones",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gaming headset",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "microphone",
+      "hsn_code": "8518",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "android phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "iphone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "keypad phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "basic phone",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "smart band",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "fitness band",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "wifi dongle",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "modem",
+      "hsn_code": "8517"
+    },
+    {
+      "phrase": "set top box",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "led monitor",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "gaming monitor",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "android tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "4k tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "oled tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "qled tv",
+      "hsn_code": "8528"
+    },
+    {
+      "phrase": "laptop computer",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "gaming laptop",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "chromebook",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "macbook",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "ultrabook",
+      "hsn_code": "847130"
+    },
+    {
+      "phrase": "all in one pc",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "desktop pc",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "mini pc",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "personal computer",
+      "hsn_code": "8471"
+    },
+    {
+      "phrase": "inkjet printer",
+      "hsn_code": "8443",
+      "note": "Cartridges are parts/accessories of 8443 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "laser printer",
+      "hsn_code": "8443",
+      "note": "Cartridges are parts/accessories of 8443 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "printer cartridge",
+      "hsn_code": "8443",
+      "note": "Cartridges are parts/accessories of 8443 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "toner cartridge",
+      "hsn_code": "8443",
+      "note": "Cartridges are parts/accessories of 8443 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ink cartridge",
+      "hsn_code": "8443",
+      "note": "Cartridges are parts/accessories of 8443 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cctv",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "security camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "action camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dslr camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "digital camera",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "dashcam",
+      "hsn_code": "8525",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "aaa battery",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "alkaline battery",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "button cell",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cell battery",
+      "hsn_code": "8506",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led bulbs",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "led light bulb",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "smart bulb",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "cfl bulb",
+      "hsn_code": "8539",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "split air conditioner",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "inverter ac",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "window air conditioner",
+      "hsn_code": "8415"
+    },
+    {
+      "phrase": "ring",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "chain",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "bangle",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "bangles",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "necklace",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "earrings",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "pendant",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "anklet",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "bracelet",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "nath",
+      "hsn_code": "7113",
+      "strength": "related",
+      "note": "Generic jewellery word: precious-metal jewellery is 7113 (3%); imitation jewellery is 7117 and glass bangles 7018 - confirm the metal."
+    },
+    {
+      "phrase": "gold nose ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "nose ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "nose stud",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "maang tikka",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold maang tikka",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "kamarbandh",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "waist chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold waist chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "bajuband",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "armlet",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold kada for men",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gents gold ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "ladies gold ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold finger ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold engagement ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold wedding ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "couple rings gold",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold rope chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold box chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold bracelet for men",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold jhumki",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold studs",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold tops earrings",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold hoops",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold locket",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold mangalsutra chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold kundan set",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "bridal jewellery set",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold bridal set",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "rani haar",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gold coin pendant chain",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "22k gold bangles",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "18k diamond ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "diamond stud earrings",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "diamond tennis bracelet",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "diamond mangalsutra",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "rose gold ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "white gold ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "platinum couple bands",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "navratna ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "gemstone ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "ruby ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "emerald ring",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "pearl earrings gold",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "temple jewellery set",
+      "hsn_code": "7113",
+      "note": "Precious-metal jewellery (7113, 3%). Check the metal: base-metal or gold-plated pieces are 7117."
+    },
+    {
+      "phrase": "silver payal pair",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver chain for men",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver bracelet for men",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver nose pin",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver ring for men",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver bichiya pair",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "oxidised silver jewellery",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver kamarbandh",
+      "hsn_code": "711311",
+      "note": "Silver jewellery (7113 11). 'Oxidised' pieces are sometimes base metal (7117) - confirm."
+    },
+    {
+      "phrase": "silver kalash",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver puja thali",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver idol",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver gift items",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver photo frame",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver tumbler",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "silver katori",
+      "hsn_code": "7114",
+      "note": "Silver articles (7114); idols may be 7114 or 9703 - confirm. Silver coins: see 7106/7118. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gold plated jewellery",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "gold plated necklace",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "gold plated bangles",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "oxidised jewellery",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "kundan imitation set",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "american diamond jewellery",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "ad jewellery",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "artificial bangles",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "fashion earrings",
+      "hsn_code": "7117",
+      "note": "Imitation jewellery (7117); rate not seeded - research could not confirm the 9/2025 rate."
+    },
+    {
+      "phrase": "glass bangles",
+      "hsn_code": "7018",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "kanch ki chudiyan",
+      "hsn_code": "7018",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "glass chudi",
+      "hsn_code": "7018",
+      "note": "No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "24k gold biscuit",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "999 gold bar",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "995 gold bar",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "fine gold bar",
+      "hsn_code": "7108"
+    },
+    {
+      "phrase": "24k gold coin",
+      "hsn_code": "7118",
+      "strength": "related",
+      "note": "Coins may be 7118 or billed as bullion 7108 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gold guinea",
+      "hsn_code": "7118",
+      "strength": "related",
+      "note": "Coins may be 7118 or billed as bullion 7108 - confirm. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "999 silver",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "silver bullion bar",
+      "hsn_code": "7106"
+    },
+    {
+      "phrase": "old gold exchange",
+      "hsn_code": "7108",
+      "strength": "related",
+      "note": "Old gold bought back from customers: classification and reverse-charge treatment need CA review."
+    },
+    {
+      "phrase": "old gold",
+      "hsn_code": "7108",
+      "strength": "related",
+      "note": "Old gold bought back from customers: classification and reverse-charge treatment need CA review."
+    },
+    {
+      "phrase": "hallmarking charges",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Service on customer's goods; SAC for hallmarking is not established here - confirm."
+    },
+    {
+      "phrase": "huid charges",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Service on customer's goods; SAC for hallmarking is not established here - confirm."
+    },
+    {
+      "phrase": "polishing charges",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Service on customer's goods; SAC for hallmarking is not established here - confirm."
+    },
+    {
+      "phrase": "gold polishing",
+      "hsn_code": "998892",
+      "strength": "related",
+      "note": "Service on customer's goods; SAC for hallmarking is not established here - confirm."
+    },
+    {
+      "phrase": "watch",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "watches",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "analog watch",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "digital watch",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "ladies watch",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "gents watch",
+      "hsn_code": "9102",
+      "note": "Smartwatches are 8517. No rate rule seeded for this code (rate not established by research) - lookup returns no_rate_rule."
+    },
+    {
+      "phrase": "men t-shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "polo t-shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "round neck t-shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "kids t-shirt",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "innerwear vest",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "sando vest",
+      "hsn_code": "6109"
+    },
+    {
+      "phrase": "cotton shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "linen shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "check shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "denim shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "office shirt",
+      "hsn_code": "6205"
+    },
+    {
+      "phrase": "track pants",
+      "hsn_code": "61",
+      "strength": "related",
+      "note": "Knitted garments are chapter 61; heading depends on type."
+    },
+    {
+      "phrase": "joggers",
+      "hsn_code": "61",
+      "strength": "related",
+      "note": "Knitted garments are chapter 61; heading depends on type."
+    },
+    {
+      "phrase": "sweat pants",
+      "hsn_code": "61",
+      "strength": "related",
+      "note": "Knitted garments are chapter 61; heading depends on type."
+    },
+    {
+      "phrase": "night suit knitted",
+      "hsn_code": "61",
+      "strength": "related",
+      "note": "Knitted garments are chapter 61; heading depends on type."
+    },
+    {
+      "phrase": "pyjama knitted",
+      "hsn_code": "61",
+      "strength": "related",
+      "note": "Knitted garments are chapter 61; heading depends on type."
+    },
+    {
+      "phrase": "kurta pyjama",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Woven traditional garments: chapter 62; heading depends on type and gender."
+    },
+    {
+      "phrase": "sherwani",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Woven traditional garments: chapter 62; heading depends on type and gender."
+    },
+    {
+      "phrase": "nehru jacket",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Woven traditional garments: chapter 62; heading depends on type and gender."
+    },
+    {
+      "phrase": "dhoti",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Woven traditional garments: chapter 62; heading depends on type and gender."
+    },
+    {
+      "phrase": "lungi",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Woven traditional garments: chapter 62; heading depends on type and gender."
+    },
+    {
+      "phrase": "saree",
+      "hsn_code": "50",
+      "strength": "related",
+      "note": "Sarees are usually classified as woven fabric of the relevant fibre (chapters 50-55), not as apparel - confirm."
+    },
+    {
+      "phrase": "sari",
+      "hsn_code": "50",
+      "strength": "related",
+      "note": "Sarees are usually classified as woven fabric of the relevant fibre (chapters 50-55), not as apparel - confirm."
+    },
+    {
+      "phrase": "silk saree",
+      "hsn_code": "50",
+      "strength": "related",
+      "note": "Sarees are usually classified as woven fabric of the relevant fibre (chapters 50-55), not as apparel - confirm."
+    },
+    {
+      "phrase": "cotton saree",
+      "hsn_code": "50",
+      "strength": "related",
+      "note": "Sarees are usually classified as woven fabric of the relevant fibre (chapters 50-55), not as apparel - confirm."
+    },
+    {
+      "phrase": "handkerchief",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Handkerchiefs are 6213 (woven) or 6117 (knitted) - not in this seed master."
+    },
+    {
+      "phrase": "hanky",
+      "hsn_code": "62",
+      "strength": "related",
+      "note": "Handkerchiefs are 6213 (woven) or 6117 (knitted) - not in this seed master."
+    },
+    {
+      "phrase": "school shoes",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "loafers",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "formal leather shoes",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "mojari",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "juttis",
+      "hsn_code": "6403"
+    },
+    {
+      "phrase": "running shoes for men",
+      "hsn_code": "6404",
+      "note": "Sports shoes with rubber/plastic uppers are 6402 - confirm upper material."
+    },
+    {
+      "phrase": "training shoes",
+      "hsn_code": "6404",
+      "note": "Sports shoes with rubber/plastic uppers are 6402 - confirm upper material."
+    },
+    {
+      "phrase": "walking shoes",
+      "hsn_code": "6404",
+      "note": "Sports shoes with rubber/plastic uppers are 6402 - confirm upper material."
+    },
+    {
+      "phrase": "canvas sneakers",
+      "hsn_code": "6404",
+      "note": "Sports shoes with rubber/plastic uppers are 6402 - confirm upper material."
+    },
+    {
+      "phrase": "slip on shoes",
+      "hsn_code": "6404",
+      "note": "Sports shoes with rubber/plastic uppers are 6402 - confirm upper material."
+    },
+    {
+      "phrase": "crocs",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "rubber slippers",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "bathroom slippers",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "eva slippers",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "floaters",
+      "hsn_code": "6402"
+    },
+    {
+      "phrase": "plastic sandals",
+      "hsn_code": "6402"
+    }
+  ]
+}

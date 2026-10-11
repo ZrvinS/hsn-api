@@ -1,0 +1,35 @@
+{
+  "classifier_version": "rules-fts-2.2",
+  "notice": "PROVISIONAL: eval labels are LLM drafts pending human review (AI-40); the AI-42 gates are provisional until the labels are human-reviewed.",
+  "top3_scope": "AI-42 top-3 recall is gated on in-master items only: coordinator-approved provisional scope under AG-12, pending Amit/human review. Top-3 over all positives is reported, not gated.",
+  "note": "rules-fts-2.2 measured on a temporary 2.2 build (accessory qualifier off) before the bump to rules-fts-2.3 (round 7)",
+  "approved_by": "coordinator",
+  "written_at": "2026-10-11T15:31:26.203Z",
+  "eval_sha256": "c22061b545861229ab2894f045d118bc82eebf4096b3209745c400f91c5868b2",
+  "seed_sha256": "42da99fdd0891e0b93c4688b3a1bce28ff6a33bec27ef2c34799b9213533e2fe",
+  "high_precision_lower_bound": 0.8064,
+  "sample_sufficient": false,
+  "history": [
+    {
+      "classifier_version": "rules-fts-2.0",
+      "frozen": "Round 4 measurement (2026-10-11), 445 items, earlier data/seed (synonyms.json sha256 bd43879a6764a726…); not comparable to the current seed, kept for the record.",
+      "metrics": {
+        "top1_4": 0.6639,
+        "top3_4": 0.735,
+        "top1_4_in_master": 0.789,
+        "top3_4_in_master": 0.8734,
+        "coverage": 0.9206,
+        "high_precision": 0.8059
+      }
+    }
+  ],
+  "metrics": {
+    "top1_4": 0.7928,
+    "top3_4": 0.8578,
+    "top1_4_in_master": 0.8704,
+    "top3_4_in_master": 0.9418,
+    "coverage": 0.9602,
+    "high_precision": 1
+  },
+  "content_sha256": "f5d5bfd0f3761a2753d6db762b364ab3a9061973c3feb3a7c78f52cc0a713ad5"
+}

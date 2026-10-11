@@ -1,0 +1,400 @@
+{
+  "_comment": "Compiled 2026-10-10 by the data worker from research/sources.md (secondary sources). CBIC gazette PDFs were NOT read; see README.md. Open Food Facts / Open Beauty Facts category tags mapped to HSN headings or chapters (best-guess classification hints, not rates).",
+  "items": [
+    {
+      "source": "open_food_facts",
+      "category": "en:biscuits",
+      "hsn_prefix": "1905"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:cookies",
+      "hsn_prefix": "1905"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:breads",
+      "hsn_prefix": "1905"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:cakes",
+      "hsn_prefix": "1905"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:rusks",
+      "hsn_prefix": "1905"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:chocolates",
+      "hsn_prefix": "1806"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:dark-chocolates",
+      "hsn_prefix": "1806"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:milk-chocolates",
+      "hsn_prefix": "1806"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:cocoa-and-its-products",
+      "hsn_prefix": "18"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:candies",
+      "hsn_prefix": "1704"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:chewing-gum",
+      "hsn_prefix": "1704"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:confectioneries",
+      "hsn_prefix": "17"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:breakfast-cereals",
+      "hsn_prefix": "1904"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:pastas",
+      "hsn_prefix": "1902"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:noodles",
+      "hsn_prefix": "1902"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:instant-noodles",
+      "hsn_prefix": "1902"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:jams",
+      "hsn_prefix": "2007"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:sauces",
+      "hsn_prefix": "2103"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:ketchup",
+      "hsn_prefix": "2103"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:pickles",
+      "hsn_prefix": "2001"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:crisps",
+      "hsn_prefix": "2005"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:potato-crisps",
+      "hsn_prefix": "2005"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:ice-creams",
+      "hsn_prefix": "2105"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:dietary-supplements",
+      "hsn_prefix": "2106"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:protein-powders",
+      "hsn_prefix": "210610"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:sodas",
+      "hsn_prefix": "220210"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:carbonated-drinks",
+      "hsn_prefix": "220210"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:colas",
+      "hsn_prefix": "220210"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:energy-drinks",
+      "hsn_prefix": "2202"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:waters",
+      "hsn_prefix": "2201"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:mineral-waters",
+      "hsn_prefix": "2201"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:fruit-juices",
+      "hsn_prefix": "2009"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:juices-and-nectars",
+      "hsn_prefix": "20"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:beers",
+      "hsn_prefix": "2203"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:teas",
+      "hsn_prefix": "0902"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:coffees",
+      "hsn_prefix": "0901"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:instant-coffees",
+      "hsn_prefix": "2101"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:milks",
+      "hsn_prefix": "0401"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:uht-milks",
+      "hsn_prefix": "0401"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:yogurts",
+      "hsn_prefix": "0403"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:butters",
+      "hsn_prefix": "0405"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:ghee",
+      "hsn_prefix": "0405"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:cheeses",
+      "hsn_prefix": "0406"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:paneer",
+      "hsn_prefix": "040610"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:eggs",
+      "hsn_prefix": "0407"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:honeys",
+      "hsn_prefix": "0409"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:rices",
+      "hsn_prefix": "1006"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:wheat-flours",
+      "hsn_prefix": "1101"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:flours",
+      "hsn_prefix": "11"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:sugars",
+      "hsn_prefix": "1701"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:salts",
+      "hsn_prefix": "2501"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:spices",
+      "hsn_prefix": "09"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:legumes",
+      "hsn_prefix": "07"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:fresh-vegetables",
+      "hsn_prefix": "07"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:fresh-fruits",
+      "hsn_prefix": "08"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:nuts",
+      "hsn_prefix": "08"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:dried-fruits",
+      "hsn_prefix": "08"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:vegetable-oils",
+      "hsn_prefix": "15"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:sunflower-oils",
+      "hsn_prefix": "1512"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:mustard-oils",
+      "hsn_prefix": "1514"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:soybean-oils",
+      "hsn_prefix": "1507"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:palm-oils",
+      "hsn_prefix": "1511"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:coconut-oils",
+      "hsn_prefix": "1513"
+    },
+    {
+      "source": "open_food_facts",
+      "category": "en:peanut-oils",
+      "hsn_prefix": "1508"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:shampoos",
+      "hsn_prefix": "330510"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:toothpastes",
+      "hsn_prefix": "330610"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:soaps",
+      "hsn_prefix": "3401"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:bar-soaps",
+      "hsn_prefix": "340111"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:hair-oils",
+      "hsn_prefix": "3305"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:hair-care",
+      "hsn_prefix": "3305"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:deodorants",
+      "hsn_prefix": "3307"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:perfumes",
+      "hsn_prefix": "3303"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:face-creams",
+      "hsn_prefix": "3304"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:sunscreens",
+      "hsn_prefix": "3304"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:make-up",
+      "hsn_prefix": "3304"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:body-lotions",
+      "hsn_prefix": "3304"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:shower-gels",
+      "hsn_prefix": "3401"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:diapers",
+      "hsn_prefix": "9619"
+    },
+    {
+      "source": "open_beauty_facts",
+      "category": "en:sanitary-pads",
+      "hsn_prefix": "9619"
+    }
+  ]
+}
