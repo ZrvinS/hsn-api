@@ -52,7 +52,7 @@ What each command does:
 
 **Other commands:**
 - Production build: `npm run build && npm start`.
-- Tests: `npm test`. The docs traceability test reads the TRD at `HSN_TRD_PATH` (default `/mnt/project-files/hsn-api/docs/02-TRD.md`) and fails if it is missing; set `HSN_TRD_PATH=skip` in a checkout without the docs.
+- Tests: `npm test`. The docs traceability test reads the TRD at `HSN_TRD_PATH` (default `../docs/02-TRD.md`, the docs folder in this repo) and fails if it is missing; set `HSN_TRD_PATH=skip` in a checkout without the docs.
 - Type check: `npm run typecheck`.
 - Classifier eval: `npm run eval`.
 

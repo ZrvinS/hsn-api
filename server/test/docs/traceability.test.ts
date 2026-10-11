@@ -2,8 +2,7 @@
  * Validator r3 polish: enforce the TRD §15.2 traceability table (02-TRD.md). Every test ID specified in the
  * TRD must have a row; every `file › "test name"` cited in the table must exist in the suite (the cited file
  * exists under test/ and contains each fragment of the name; "…" marks an elision).
- * The TRD is read from HSN_TRD_PATH, default /mnt/project-files/hsn-api/docs/02-TRD.md (the docs live outside
- * the server repo). SA-C5-06: a missing TRD FAILS the suite; set HSN_TRD_PATH=skip to skip it explicitly.
+ * The TRD is read from HSN_TRD_PATH, default ../docs/02-TRD.md relative to the server folder. SA-C5-06: a missing TRD FAILS the suite; set HSN_TRD_PATH=skip to skip it explicitly.
  */
 import { describe, expect, it } from 'vitest';
 import { existsSync, readFileSync } from 'node:fs';
@@ -11,7 +10,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const TEST_DIR = join(dirname(fileURLToPath(import.meta.url)), '..');
-const DEFAULT_TRD = '/mnt/project-files/hsn-api/docs/02-TRD.md';
+const DEFAULT_TRD = fileURLToPath(new URL('../../../docs/02-TRD.md', import.meta.url));
 const TRD = process.env['HSN_TRD_PATH'] ?? DEFAULT_TRD;
 const skip = TRD === 'skip';
 const present = !skip && existsSync(TRD);
