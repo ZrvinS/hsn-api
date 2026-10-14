@@ -7,6 +7,7 @@ It is built with Node.js 22, Fastify, `node:sqlite` and zod.
 - The design documents are in `../../docs` (in the project files: `hsn-api/docs`).
 - The API contract is `docs/design/openapi.yaml`.
 - Read [Data status](#data-status-read-this-first) before you rely on any rate.
+- Deploying it? See [docs/guides/deployment.md](../docs/guides/deployment.md) (Docker with the `Dockerfile` here, and Render). Integrating it into an app? See [docs/guides/integration-guide.md](../docs/guides/integration-guide.md).
 
 ## Quick start (local, about 5 minutes)
 

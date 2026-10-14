@@ -2,6 +2,10 @@
 
 HSN Rate API (`hsn-api`) is one service that lets any billing app (Sunarone, the health app, retailers) look up GST rate rules by HSN/SAC code, get best-guess HSN suggestions from a product name or barcode, calculate CGST/SGST/IGST, and follow a change feed. Rates are curated by people from CBIC notifications and versioned by effective date. Every rate carries a citation. The service is **not** an official or real-time government feed.
 
+**Guides (start here):**
+- [guides/integration-guide.md](guides/integration-guide.md): for developers adding the API to their own app. Keys, every public endpoint with live requests and responses, handling low-confidence classification, ambiguous and unverified rates, the change feed, errors, rate limits, Node.js and Python client code, and a go-live checklist.
+- [guides/deployment.md](guides/deployment.md): for the API owner. Running locally, production configuration, Docker on any server or VM (`server/Dockerfile`), Render as a worked example, the first two-admin data load, issuing keys, verifying rates, backups, audit anchoring, upgrades and troubleshooting.
+
 Read in this order:
 
 | # | Document | What it covers |
