@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+*.db
+*.db-*
+*.hwm.json
+admin-keys.txt
+server.log
+test

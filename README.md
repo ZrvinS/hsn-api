@@ -7,6 +7,7 @@ An API that client apps (billing, jewellery, pharmacy) call to look up the GST r
 | Folder | Contents |
 |---|---|
 | `server/` | The API server (Node 22, TypeScript, Fastify, SQLite). Start with `server/README.md`. |
+| `docs/guides/` | **Start here.** [Integration guide](docs/guides/integration-guide.md) for app developers, and [deployment guide](docs/guides/deployment.md) for running and deploying the API. |
 | `docs/` | PRD, TRD, app flow, security checklist, AI restrictions, best practices, design (OpenAPI, data model, architecture). Index: `docs/README.md`. |
 | `research/` | Cited research on GST rate sources and barcode data sources. |
 | `reviews/` | Validator and security audit reports, and the fix logs for each round. |
